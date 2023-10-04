@@ -32,7 +32,5 @@ If you want to visit the GitHub source for the page you're reading choose <i>On 
 
 * I designed this flow guessing this is fairly close to the way A8C manages its docs.
 
-* I edit the whole site in a single outline in Electric Drummer using a tool called Glorp. 
-
-* The outline will be stored in the repo too. 
+* I edit the whole site in a <a href="https://github.com/scripting/a8c-FeedLand-Support/blob/main/docs/source.opml">single outline</a> in an ancient piece of software known as UserLand Frontier. 
 
