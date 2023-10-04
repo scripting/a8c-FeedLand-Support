@@ -6,23 +6,17 @@ This is where we're reviewing and editing the docs for the A8C release of FeedLa
 
 * This repo is private for now, while we get it together. 
 
-* I don't want it to be private for very long. 
-
-* Be aware that anything you post here will be public. 
+* Be aware that anything you post here will be public soon. 
 
 ### Where stuff is
 
-* The pages are stored in the docs folder here on the A8C-FeedLand-Support repo. 
+* The pages are stored in the <a href="https://github.com/scripting/a8c-FeedLand-Support/tree/main/docs">docs folder</a> here. 
 
-* This is the <a href="https://docs.feedland.dev/">docs website</a>, which simply mirrors the docs folder, rendered through a template. 
+* This is the <a href="https://docs.feedland.dev/">docs website</a>, which simply mirrors the docs folder, rendered through a template. I would recommend reading it there. There's a command in the menu that takes you to the GitHub source for the page you're reading. 
 
 * You can <a href="https://github.com/scripting/a8c-FeedLand-Support/issues">report problems</a> by posting an issue, or post a pull request.
 
-### Updates
-
-#### 10/4/2023 by DW 
-
-* The pages have been converted to Markdown from HTML.  
+### Notes
 
 * The docs website is at a temporary URL. I'm hosting it, but expect it to eventually be hosted on an Automattic server. The server is configured to serve out of the docs folder. 
 
@@ -35,6 +29,14 @@ This is where we're reviewing and editing the docs for the A8C release of FeedLa
 * I edit the whole site in a single outline in Electric Drummer using a tool called Glorp. 
 
 * The outline will be stored in the repo too. 
+
+### Updates
+
+#### 10/4/2023 by DW 
+
+* Everything was moved to the new A8C-FeedLand-Support repo. 
+
+* The site got a new URL and had to be modified to serve from a private repo.
 
 #### 8/5/2023 by DW
 
