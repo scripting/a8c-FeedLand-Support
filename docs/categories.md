@@ -1,4 +1,4 @@
-# Categories in FeedLand
+# Categories in FeedLand 
 
 Categories allow you to customize the news in FeedLand.
 

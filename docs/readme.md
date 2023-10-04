@@ -1,14 +1,40 @@
-# FeedLand Docs
+# FeedLand Docs 
 
-The docs are being updated here, bringing them current, and using them to review the functionality of the product looking for things that need attention. 
+This is where we're reviewing and editing the docs for the A8C release of FeedLand. 
 
-For a list of all the docs currently available, <a href="https://user-images.githubusercontent.com/1686843/258141641-ca25e468-0fbb-4d5f-bb39-96e3c873a127.png">look in the Docs menu</a> at the top of each page. 
+### Caveats
 
-The docs are rendered from my Glorp outline directly to the website via Dropbox, and kept in sync with the <a href="https://github.com/scripting/feedlandSupport/tree/main/docs">FeedLand Support repo</a> on GitHub. I had initially planned it to go first to the repo, and have the site be a dynamic rendering of the content in the repo, but there were rate limits that I didn't fully understand, and rather than stop to figure it out, I went the other way, which I know works, because I've been using it for many years.
+* This repo is private for now, while we get it together. 
 
-The actual site that users will see is:  <a href="http://docs2.feedland.org/">docs2.feedland.org</a>. 
+* I don't want it to be private for very long. 
+
+* Be aware that anything you post here will be public. 
+
+### Where stuff is
+
+* The pages are stored in the docs folder here on the A8C-FeedLand-Support repo. 
+
+* This is the <a href="https://docs.feedland.dev/">docs website</a>, which simply mirrors the docs folder, rendered through a template. 
+
+* You can <a href="https://github.com/scripting/a8c-FeedLand-Support/issues">report problems</a> by posting an issue, or post a pull request.
 
 ### Updates
+
+#### 10/4/2023 by DW 
+
+* The pages have been converted to Markdown from HTML.  
+
+* The docs website is at a temporary URL. I'm hosting it, but expect it to eventually be hosted on an Automattic server. The server is configured to serve out of the docs folder. 
+
+* When changes are merged, they are instantly available on the website.
+
+* Here's the <a href="https://s3.amazonaws.com/scripting.com/code/feedland/docswebsite/markdowntemplate.txt">template</a> it uses. (I will move this into the repo too.) 
+
+* I designed this flow guessing this is fairly close to the way A8C manages its docs.
+
+* I edit the whole site in a single outline in Electric Drummer using a tool called Glorp. 
+
+* The outline will be stored in the repo too. 
 
 #### 8/5/2023 by DW
 

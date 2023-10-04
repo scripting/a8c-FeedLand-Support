@@ -1,4 +1,4 @@
-# Reading news in FeedLand
+# Reading news in FeedLand 
 
 From reading earlier docs, you know how to manage feeds, subscribe and unsubscribe, and find a few recent items in the feed list. Now we get into reading news.  
 

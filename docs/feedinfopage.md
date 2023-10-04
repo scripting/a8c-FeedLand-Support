@@ -1,4 +1,4 @@
-# Feed Info page
+# Feed Info page 
 
 Each feed that FeedLand follows has a Feed Info page. 
 

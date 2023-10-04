@@ -1,4 +1,4 @@
-# Your Feed List
+# Your Feed List 
 
 At the center of your FeedLand world is the Feed List. 
 
@@ -8,7 +8,7 @@ All the feeds you subscribe to are listed.
 
 ### Using the list
 
-You can change the order in which feeds appear by clicking on the column titles. 
+You can change the order in which feeds appear by clicking on the column titles.    
 
 From the feed list, you can categorize feeds, read news, see which feeds have recently updated, see who else is subscribed to a feed, see the stats for each feed. There's a lot of functionality packed into this page.
 

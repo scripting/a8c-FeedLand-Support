@@ -1,4 +1,4 @@
-# Your FeedLand feed 
+# Your FeedLand feed  
 
 FeedLand takes a social media approach to feeds, like Twitter, Bluesky, Mastodon or Threads. 
 

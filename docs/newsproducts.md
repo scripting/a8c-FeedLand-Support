@@ -1,4 +1,4 @@
-# News products
+# News products 
 
 A news product is a one-page website you create with FeedLand for people outside of FeedLand to read.    
 
