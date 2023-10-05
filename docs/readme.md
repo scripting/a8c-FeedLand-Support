@@ -10,9 +10,9 @@ If you want to visit the GitHub source for the page you're reading choose <i>On 
 
 ### Caveats
 
-* This repo is private for now, while we get it together. 
+* The URLs in the docs are pointing to feedland.org, so they won't get you to the new instance. 
 
-* Be aware that anything you post here will be public soon. 
+* If you post a <a href="https://github.com/scripting/a8c-FeedLand-Support/issues">comment</a> (please do!) be aware that while the repo is private now, very soon it will be public, so don't post anything there that's confidential. 
 
 ### Where stuff is
 
@@ -24,13 +24,13 @@ If you want to visit the GitHub source for the page you're reading choose <i>On 
 
 ### Notes
 
-* The docs website is at a temporary URL. I'm hosting it, but expect it to eventually be hosted on an Automattic server. The server is configured to serve out of the docs folder. 
+* The docs website is at a temporary URL. I'm hosting it, but expect it to eventually be hosted on an Automattic server. The server is configured to serve out of the docs folder in the repo. 
 
 * When changes are merged, they are instantly available on the website.
 
 * Here's the <a href="https://s3.amazonaws.com/scripting.com/code/feedland/docs/markdowntemplate.txt">template</a> it uses. (I will move this into the repo too.) 
 
-* I designed this flow guessing this is fairly close to the way A8C manages its docs.
+* I designed this flow guessing this is fairly close to the way A8C manages its docs for technical products.
 
-* I edit the whole site in a <a href="https://github.com/scripting/a8c-FeedLand-Support/blob/main/docs/source.opml">single outline</a> in an ancient piece of software known as UserLand Frontier. 
+* I edit the whole site in a <a href="https://github.com/scripting/a8c-FeedLand-Support/blob/main/docs/source.opml">single outline</a> in an ancient piece of software known as <a href="http://frontier.userland.com/">UserLand Frontier</a>. 
 

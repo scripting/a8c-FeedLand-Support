@@ -4,13 +4,9 @@ Everything was moved to the new A8C-FeedLand-Support repo.
 
 The site got a new URL and had to be modified to serve from a private repo.
 
+Moved the template into the project and the repo.
 
-
-Move the template into the project and the repo.
-
-The URLs in the template point into the old repo.
-
-
+The URLs in the template point into the old repo, I think I fixed most of those.
 
 #### 8/5/2023 by DW
 
