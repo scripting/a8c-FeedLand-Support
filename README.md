@@ -1,10 +1,10 @@
 # FeedLand Support Repo 2
 
-This is a private repo for work on and use of FeedLand on the A8C runtime.
+This is a public repo for work on and use of FeedLand on the A8C runtime.
 
-### This site will become public
+### This site was private and now is public
 
-So be careful of what you post here.
+Be aware of that when you post here.
 
 ### What's here
 
