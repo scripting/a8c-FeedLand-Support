@@ -3,10 +3,10 @@
 	<head>
 		<title>NYT feeds</title>
 		<description>All the NYT feeds we could find, about five years ago.</description>
-		<dateCreated>Wed, 18 Oct 2023 15:40:10 GMT</dateCreated>
+		<dateCreated>Wed, 12 Oct 2023 18:54 GMT</dateCreated>
 		<ownerId>dave.winer@gmail.com</ownerId>
 		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
-		<dateModified>Wed, 18 Oct 2023 15:40:44 GMT</dateModified>
+		<dateModified>Wed, 18 Oct 2023 15:51:34 GMT</dateModified>
 		<expansionState></expansionState>
 		<lastCursor>0</lastCursor>
 		</head>
