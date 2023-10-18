@@ -1,24 +1,29 @@
 <?xml version="1.0"?>
 <opml version="2.0">
 	<head>
-		<title>Peekskill News sources</title>
-		<description>List created by feedlandDatabase v0.6.28</description>
-		<dateModified>Thu, 12 Oct 2023 01:59:19 GMT</dateModified>
+		<title>Peekskill</title>
+		<description>Peekskill News sources</description>
+		<dateCreated>12 Oct 2023 18:32:16 GMT</dateCreated>
+		<ownerId>dave.winer@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<dateModified>Wed, 18 Oct 2023 21:03:50 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
 		</head>
 	<body>
-		<outline type="rss" text="Discover Peekskill" xmlUrl="http://discoverpeekskill.com/feed/" htmlUrl="https://discoverpeekskill.com/" category="peekskill" />
-		<outline type="rss" text="River Journal Online – News for Tarrytown, Sleepy Hollow, Irvington, Ossining, Briarcliff Manor, Croton-on-Hudson, Cortlandt and Peekskill" xmlUrl="https://riverjournalonline.com/feed/" htmlUrl="https://riverjournalonline.com/" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Photo Gallery - All" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=53&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/Gallery.aspx" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - News Flash" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml/feed" htmlUrl="https://www.cityofpeekskill.com/CivicAlerts.aspx" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Jobs" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?CommunityJobs=False&amp;ModID=66&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/Jobs.aspx" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Calendar" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=58&amp;CID=All-calendar.xml/feed" htmlUrl="https://www.cityofpeekskill.com/Calendar.aspx" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Blog" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=51&amp;CID=All-blog.xml/feed" htmlUrl="https://www.cityofpeekskill.com/Blog.aspx" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Community Voice" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=72&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/CommunityVoice" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Alert Center" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=63&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/AlertCenter.aspx" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Agenda Creator" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=65&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/AgendaCenter" category="peekskill" />
-		<outline type="rss" text="Peekskill, NY - Pages" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=76&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/AlertCenter.aspx" category="peekskill" />
-		<outline type="rss" text="Peekskill Exurbanist" xmlUrl="https://exurbanist.com/feed" htmlUrl="https://exurbanist.com/" category="peekskill" />
-		<outline type="rss" text="Home News &amp; Announcements" xmlUrl="https://www.cityofpeekskill.com/node/111/news/feed" htmlUrl="https://www.cityofpeekskill.com/node/111/news" category="peekskill" />
-		<outline type="rss" text="Peekskill Herald" xmlUrl="https://peekskillherald.com/feed" htmlUrl="https://peekskillherald.com/" category="peekskill" />
+		<outline text="Discover Peekskill" type="rss" xmlUrl="http://discoverpeekskill.com/feed/" htmlUrl="https://discoverpeekskill.com/" category="peekskill"/>
+		<outline text="River Journal Online – News for Tarrytown, Sleepy Hollow, Irvington, Ossining, Briarcliff Manor, Croton-on-Hudson, Cortlandt and Peekskill" type="rss" xmlUrl="https://riverjournalonline.com/feed/" htmlUrl="https://riverjournalonline.com/" category="peekskill"/>
+		<outline text="Peekskill, NY - Photo Gallery - All" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=53&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/Gallery.aspx" category="peekskill"/>
+		<outline text="Peekskill, NY - News Flash" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml/feed" htmlUrl="https://www.cityofpeekskill.com/CivicAlerts.aspx" category="peekskill"/>
+		<outline text="Peekskill, NY - Jobs" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?CommunityJobs=False&amp;ModID=66&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/Jobs.aspx" category="peekskill"/>
+		<outline text="Peekskill, NY - Calendar" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=58&amp;CID=All-calendar.xml/feed" htmlUrl="https://www.cityofpeekskill.com/Calendar.aspx" category="peekskill"/>
+		<outline text="Peekskill, NY - Blog" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=51&amp;CID=All-blog.xml/feed" htmlUrl="https://www.cityofpeekskill.com/Blog.aspx" category="peekskill"/>
+		<outline text="Peekskill, NY - Community Voice" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=72&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/CommunityVoice" category="peekskill"/>
+		<outline text="Peekskill, NY - Alert Center" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=63&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/AlertCenter.aspx" category="peekskill"/>
+		<outline text="Peekskill, NY - Agenda Creator" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=65&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/AgendaCenter" category="peekskill"/>
+		<outline text="Peekskill, NY - Pages" type="rss" xmlUrl="https://www.cityofpeekskill.com/RSSFeed.aspx?ModID=76&amp;CID=All-0/feed" htmlUrl="https://www.cityofpeekskill.com/AlertCenter.aspx" category="peekskill"/>
+		<outline text="Peekskill Exurbanist" type="rss" xmlUrl="https://exurbanist.com/feed" htmlUrl="https://exurbanist.com/" category="peekskill"/>
+		<outline text="Home News &amp; Announcements" type="rss" xmlUrl="https://www.cityofpeekskill.com/node/111/news/feed" htmlUrl="https://www.cityofpeekskill.com/node/111/news" category="peekskill"/>
+		<outline text="Peekskill Herald" type="rss" xmlUrl="https://peekskillherald.com/feed" htmlUrl="https://peekskillherald.com/" category="peekskill"/>
 		</body>
 	</opml>

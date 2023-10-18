@@ -1,33 +1,38 @@
 <?xml version="1.0"?>
 <opml version="2.0">
 	<head>
-		<title>Official WordPress Make Teams Blogs</title>
-		<description>List created by feedlandDatabase v0.6.28</description>
-		<dateModified>Thu, 12 Oct 2023 02:03:06 GMT</dateModified>
+		<title>WP Make Teams</title>
+		<description>Official WordPress Make Teams Blogs.</description>
+		<dateCreated>12 Oct 2023 18:32:16 GMT</dateCreated>
+		<ownerId>dave.winer@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<dateModified>Wed, 18 Oct 2023 21:03:43 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
 		</head>
 	<body>
-		<outline type="rss" text="Make WordPress Design" xmlUrl="https://make.wordpress.org/design/feed/" htmlUrl="https://make.wordpress.org/design" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Mobile" xmlUrl="https://make.wordpress.org/mobile/feed/" htmlUrl="https://make.wordpress.org/mobile" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Accessible" xmlUrl="https://make.wordpress.org/accessibility/feed/" htmlUrl="https://make.wordpress.org/accessibility" category="make-wordpress" />
-		<outline type="rss" text="Translate WordPress" xmlUrl="https://make.wordpress.org/polyglots/feed/" htmlUrl="https://make.wordpress.org/polyglots" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Support" xmlUrl="https://make.wordpress.org/support/feed/" htmlUrl="https://make.wordpress.org/support" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Documentation" xmlUrl="https://make.wordpress.org/docs/feed/" htmlUrl="https://make.wordpress.org/docs" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Themes" xmlUrl="https://make.wordpress.org/themes/feed/" htmlUrl="https://make.wordpress.org/themes" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Plugins" xmlUrl="https://make.wordpress.org/plugins/feed/" htmlUrl="https://make.wordpress.org/plugins" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Training" xmlUrl="https://make.wordpress.org/training/feed/" htmlUrl="https://make.wordpress.org/training" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Community" xmlUrl="https://make.wordpress.org/community/feed/" htmlUrl="https://make.wordpress.org/community" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress.org" xmlUrl="https://make.wordpress.org/meta/feed/" htmlUrl="https://make.wordpress.org/meta" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Test" xmlUrl="https://make.wordpress.org/test/feed/" htmlUrl="https://make.wordpress.org/test" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress.tv" xmlUrl="https://make.wordpress.org/tv/feed/" htmlUrl="https://make.wordpress.org/tv" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress.org Marketing" xmlUrl="https://make.wordpress.org/marketing/feed/" htmlUrl="https://make.wordpress.org/marketing" category="make-wordpress" />
-		<outline type="rss" text="WP-CLI – WordPress.org" xmlUrl="https://make.wordpress.org/cli/feed/" htmlUrl="https://make.wordpress.org/cli" category="make-wordpress" />
-		<outline type="rss" text="Tide – WordPress.org" xmlUrl="https://make.wordpress.org/tide/feed/" htmlUrl="https://make.wordpress.org/tide" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Hosting" xmlUrl="https://make.wordpress.org/hosting/feed/" htmlUrl="https://make.wordpress.org/hosting" category="make-wordpress" />
-		<outline type="rss" text="Make Photos – WordPress.org" xmlUrl="https://make.wordpress.org/photos/feed/" htmlUrl="https://make.wordpress.org/photos" category="make-wordpress" />
-		<outline type="rss" text="Make Openverse – WordPress.org" xmlUrl="https://make.wordpress.org/openverse/feed/" htmlUrl="https://make.wordpress.org/openverse" category="make-wordpress" />
-		<outline type="rss" text="Make WordPress Core" xmlUrl="https://make.wordpress.org/core/feed/" htmlUrl="https://make.wordpress.org/core" category="make-wordpress" />
-		<outline type="rss" text="Core Performance – WordPress.org" xmlUrl="https://make.wordpress.org/performance/feed/" htmlUrl="https://make.wordpress.org/performance" category="make-wordpress" />
-		<outline type="rss" text="Sustainability – WordPress.org" xmlUrl="https://make.wordpress.org/sustainability/feed/" htmlUrl="https://make.wordpress.org/sustainability" category="make-wordpress" />
-		<outline type="rss" text="Posts – WordPress News" xmlUrl="https://wordpress.org/news/podcast/feed/" htmlUrl="https://wordpress.org/news" category="make-wordpress" />
+		<outline text="Make WordPress Design" type="rss" xmlUrl="https://make.wordpress.org/design/feed/" htmlUrl="https://make.wordpress.org/design" category="make-wordpress"/>
+		<outline text="Make WordPress Mobile" type="rss" xmlUrl="https://make.wordpress.org/mobile/feed/" htmlUrl="https://make.wordpress.org/mobile" category="make-wordpress"/>
+		<outline text="Make WordPress Accessible" type="rss" xmlUrl="https://make.wordpress.org/accessibility/feed/" htmlUrl="https://make.wordpress.org/accessibility" category="make-wordpress"/>
+		<outline text="Translate WordPress" type="rss" xmlUrl="https://make.wordpress.org/polyglots/feed/" htmlUrl="https://make.wordpress.org/polyglots" category="make-wordpress"/>
+		<outline text="Make WordPress Support" type="rss" xmlUrl="https://make.wordpress.org/support/feed/" htmlUrl="https://make.wordpress.org/support" category="make-wordpress"/>
+		<outline text="Make WordPress Documentation" type="rss" xmlUrl="https://make.wordpress.org/docs/feed/" htmlUrl="https://make.wordpress.org/docs" category="make-wordpress"/>
+		<outline text="Make WordPress Themes" type="rss" xmlUrl="https://make.wordpress.org/themes/feed/" htmlUrl="https://make.wordpress.org/themes" category="make-wordpress"/>
+		<outline text="Make WordPress Plugins" type="rss" xmlUrl="https://make.wordpress.org/plugins/feed/" htmlUrl="https://make.wordpress.org/plugins" category="make-wordpress"/>
+		<outline text="Make WordPress Training" type="rss" xmlUrl="https://make.wordpress.org/training/feed/" htmlUrl="https://make.wordpress.org/training" category="make-wordpress"/>
+		<outline text="Make WordPress Community" type="rss" xmlUrl="https://make.wordpress.org/community/feed/" htmlUrl="https://make.wordpress.org/community" category="make-wordpress"/>
+		<outline text="Make WordPress.org" type="rss" xmlUrl="https://make.wordpress.org/meta/feed/" htmlUrl="https://make.wordpress.org/meta" category="make-wordpress"/>
+		<outline text="Make WordPress Test" type="rss" xmlUrl="https://make.wordpress.org/test/feed/" htmlUrl="https://make.wordpress.org/test" category="make-wordpress"/>
+		<outline text="Make WordPress.tv" type="rss" xmlUrl="https://make.wordpress.org/tv/feed/" htmlUrl="https://make.wordpress.org/tv" category="make-wordpress"/>
+		<outline text="Make WordPress.org Marketing" type="rss" xmlUrl="https://make.wordpress.org/marketing/feed/" htmlUrl="https://make.wordpress.org/marketing" category="make-wordpress"/>
+		<outline text="WP-CLI – WordPress.org" type="rss" xmlUrl="https://make.wordpress.org/cli/feed/" htmlUrl="https://make.wordpress.org/cli" category="make-wordpress"/>
+		<outline text="Tide – WordPress.org" type="rss" xmlUrl="https://make.wordpress.org/tide/feed/" htmlUrl="https://make.wordpress.org/tide" category="make-wordpress"/>
+		<outline text="Make WordPress Hosting" type="rss" xmlUrl="https://make.wordpress.org/hosting/feed/" htmlUrl="https://make.wordpress.org/hosting" category="make-wordpress"/>
+		<outline text="Make Photos – WordPress.org" type="rss" xmlUrl="https://make.wordpress.org/photos/feed/" htmlUrl="https://make.wordpress.org/photos" category="make-wordpress"/>
+		<outline text="Make Openverse – WordPress.org" type="rss" xmlUrl="https://make.wordpress.org/openverse/feed/" htmlUrl="https://make.wordpress.org/openverse" category="make-wordpress"/>
+		<outline text="Make WordPress Core" type="rss" xmlUrl="https://make.wordpress.org/core/feed/" htmlUrl="https://make.wordpress.org/core" category="make-wordpress"/>
+		<outline text="Core Performance – WordPress.org" type="rss" xmlUrl="https://make.wordpress.org/performance/feed/" htmlUrl="https://make.wordpress.org/performance" category="make-wordpress"/>
+		<outline text="Sustainability – WordPress.org" type="rss" xmlUrl="https://make.wordpress.org/sustainability/feed/" htmlUrl="https://make.wordpress.org/sustainability" category="make-wordpress"/>
+		<outline text="Posts – WordPress News" type="rss" xmlUrl="https://wordpress.org/news/podcast/feed/" htmlUrl="https://wordpress.org/news" category="make-wordpress"/>
 		</body>
 	</opml>
