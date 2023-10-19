@@ -6,29 +6,30 @@
     <dateCreated>Thu, 19 Oct 2023 01:49:13 +0000</dateCreated>
   </head>
   <body>
-		<outline text="Paul Sellers' Blog" title="Paul Sellers' Blog" type="rss" xmlUrl="https://paulsellers.com/feed/" htmlUrl="https://paulsellers.com" category="woodworking" />
-		<outline text="David Fisher, Carving Explorations" title="David Fisher, Carving Explorations" type="rss" xmlUrl="https://davidffisherblog.wordpress.com/feed/" htmlUrl="https://davidffisher.com" category="woodworking" />
-		<outline text="PETER FOLLANSBEE: JOINER’S NOTES" title="PETER FOLLANSBEE: JOINER’S NOTES" type="rss" xmlUrl="https://pfollansbee.wordpress.com/feed/" htmlUrl="https://pfollansbee.wordpress.com" category="woodworking" />
-		<outline text="Elia Bizzarri – Hand Tool Woodworking" title="Elia Bizzarri – Hand Tool Woodworking" type="rss" xmlUrl="http://handtoolwoodworking.com/feed/" htmlUrl="https://handtoolwoodworking.com" category="woodworking" />
-		<outline text="Rude Mechanicals Press Blog" title="Rude Mechanicals Press Blog" type="rss" xmlUrl="https://rudemechanicalspress.wordpress.com/feed/" htmlUrl="https://rudemechanicalspress.com" category="woodworking" />
-		<outline text="Lost Art Press" title="Lost Art Press" type="rss" xmlUrl="https://blog.lostartpress.com/feed/" htmlUrl="https://blog.lostartpress.com" category="woodworking" />
-		<outline text="Journeyman's Journal" title="Journeyman's Journal" type="rss" xmlUrl="https://journeymansjournel.wordpress.com/feed/" htmlUrl="https://journeymansjournel.wordpress.com" category="woodworking" />
-		<outline text="The Apartment Woodworker" title="The Apartment Woodworker" type="rss" xmlUrl="https://theapartmentwoodworker.com/feed/" htmlUrl="https://theapartmentwoodworker.com" category="woodworking" />
-		<outline text="The Literary Workshop Blog" title="The Literary Workshop Blog" type="rss" xmlUrl="https://literaryworkshop.wordpress.com/feed/" htmlUrl="https://literaryworkshop.wordpress.com" category="woodworking" />
-		<outline text="An Unplugged Woodworker" title="An Unplugged Woodworker" type="rss" xmlUrl="https://ronaylor.wordpress.com/feed/" htmlUrl="https://ronaylor.wordpress.com" category="woodworking" />
-		<outline text="Mulesaw" title="Mulesaw" type="rss" xmlUrl="https://mulesaw.blogspot.com/feeds/posts/default" htmlUrl="https://mulesaw.blogspot.com/" category="woodworking" />
-		<outline text="Emmet Van Driesche - Blog" title="Emmet Van Driesche - Blog" type="rss" xmlUrl="https://www.emmetvandriesche.com/1/feed" htmlUrl="https://www.emmetvandriesche.com/blog" category="woodworking" />
-		<outline text="giant Cypress" title="giant Cypress" type="rss" xmlUrl="https://feeds.feedburner.com/giantcypress?format=xml" htmlUrl="https://giantcypress.net/" category="woodworking" />
-		<outline text="THE WOODS LIFE" title="THE WOODS LIFE" type="rss" xmlUrl="https://thewoodslife.com/?feed=rss2" htmlUrl="https://thewoodslife.com" category="woodworking" />
-		<outline text="Shopsmithwoodworker" title="Shopsmithwoodworker" type="rss" xmlUrl="https://shopsmithwoodworker.com/feed/" htmlUrl="https://shopsmithwoodworker.com" category="woodworking" />
-		<outline text="Imprint - Our latest stories on makers, their process and techniques" title="Imprint - Our latest stories on makers, their process and techniques" type="rss" xmlUrl="https://imprintspace.com/blogs/stories.atom" htmlUrl="https://imprintspace.com/blogs/stories" category="woodworking" />
-		<outline text="Chair Notes Blog - Peter Galbert Chairmaker" title="Chair Notes Blog - Peter Galbert Chairmaker" type="rss" xmlUrl="https://www.petergalbert.com/blog?format=rss" htmlUrl="https://www.petergalbert.com/blog/" category="woodworking" />
-		<outline text="Woodworking in a Tiny Shop" title="Woodworking in a Tiny Shop" type="rss" xmlUrl="https://tinyshopww.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://tinyshopww.blogspot.com/" category="woodworking" />
-		<outline text="Sean Hellman" title="Sean Hellman" type="rss" xmlUrl="https://seanhellman.com/feed/" htmlUrl="https://seanhellman.com" category="woodworking" />
-		<outline text="Blacktail Studio" title="Blog - Blacktail Studio" type="rss" xmlUrl="https://www.blacktailstudio.com/blog?format=rss" htmlUrl="https://www.blacktailstudio.com/blog/" category="woodworking" />
-		<outline text="Ana White - Free Woodworking Projects" title="Ana White - Free Woodworking Projects" type="rss" xmlUrl="https://www.ana-white.com/rss.xml" htmlUrl="https://www.ana-white.com/" category="woodworking" />
-		<outline text="Cape Falcon Kayak :: Student Builds" title="Cape Falcon Kayak :: Student Builds" type="rss" xmlUrl="https://builds.capefalconkayaks.com/feed/" htmlUrl="https://builds.capefalconkayaks.com" category="woodworking" />
-		<outline text="Joe's Wood Working Journey" title="Joe's Wood Working Journey" type="rss" xmlUrl="https://joeswoodworkingjourney.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://joeswoodworkingjourney.blogspot.com/" category="woodworking" />
-		<outline text="Rivers Joinery" title="Rivers Joinery" type="rss" xmlUrl="https://riversjoinery.blogspot.com/feeds/posts/default" htmlUrl="https://riversjoinery.blogspot.com/" category="woodworking" />
+	<outline text="Paul Sellers' Blog" title="Paul Sellers' Blog" type="rss" xmlUrl="https://paulsellers.com/feed/" htmlUrl="https://paulsellers.com" category="woodworking" />
+	<outline text="David Fisher, Carving Explorations" title="David Fisher, Carving Explorations" type="rss" xmlUrl="https://davidffisherblog.wordpress.com/feed/" htmlUrl="https://davidffisher.com" category="woodworking" />
+	<outline text="PETER FOLLANSBEE: JOINER’S NOTES" title="PETER FOLLANSBEE: JOINER’S NOTES" type="rss" xmlUrl="https://pfollansbee.wordpress.com/feed/" htmlUrl="https://pfollansbee.wordpress.com" category="woodworking" />
+	<outline text="Elia Bizzarri – Hand Tool Woodworking" title="Elia Bizzarri – Hand Tool Woodworking" type="rss" xmlUrl="http://handtoolwoodworking.com/feed/" htmlUrl="https://handtoolwoodworking.com" category="woodworking" />
+	<outline text="Rude Mechanicals Press Blog" title="Rude Mechanicals Press Blog" type="rss" xmlUrl="https://rudemechanicalspress.wordpress.com/feed/" htmlUrl="https://rudemechanicalspress.com" category="woodworking" />
+	<outline text="Lost Art Press" title="Lost Art Press" type="rss" xmlUrl="https://blog.lostartpress.com/feed/" htmlUrl="https://blog.lostartpress.com" category="woodworking" />
+	<outline text="Journeyman's Journal" title="Journeyman's Journal" type="rss" xmlUrl="https://journeymansjournel.wordpress.com/feed/" htmlUrl="https://journeymansjournel.wordpress.com" category="woodworking" />
+	<outline text="The Apartment Woodworker" title="The Apartment Woodworker" type="rss" xmlUrl="https://theapartmentwoodworker.com/feed/" htmlUrl="https://theapartmentwoodworker.com" category="woodworking" />
+	<outline text="The Literary Workshop Blog" title="The Literary Workshop Blog" type="rss" xmlUrl="https://literaryworkshop.wordpress.com/feed/" htmlUrl="https://literaryworkshop.wordpress.com" category="woodworking" />
+	<outline text="An Unplugged Woodworker" title="An Unplugged Woodworker" type="rss" xmlUrl="https://ronaylor.wordpress.com/feed/" htmlUrl="https://ronaylor.wordpress.com" category="woodworking" />
+	<outline text="Mulesaw" title="Mulesaw" type="rss" xmlUrl="https://mulesaw.blogspot.com/feeds/posts/default" htmlUrl="https://mulesaw.blogspot.com/" category="woodworking" />
+	<outline text="Emmet Van Driesche - Blog" title="Emmet Van Driesche - Blog" type="rss" xmlUrl="https://www.emmetvandriesche.com/1/feed" htmlUrl="https://www.emmetvandriesche.com/blog" category="woodworking" />
+	<outline text="giant Cypress" title="giant Cypress" type="rss" xmlUrl="https://feeds.feedburner.com/giantcypress?format=xml" htmlUrl="https://giantcypress.net/" category="woodworking" />
+	<outline text="THE WOODS LIFE" title="THE WOODS LIFE" type="rss" xmlUrl="https://thewoodslife.com/?feed=rss2" htmlUrl="https://thewoodslife.com" category="woodworking" />
+	<outline text="Shopsmithwoodworker" title="Shopsmithwoodworker" type="rss" xmlUrl="https://shopsmithwoodworker.com/feed/" htmlUrl="https://shopsmithwoodworker.com" category="woodworking" />
+	<outline text="Imprint - Our latest stories on makers, their process and techniques" title="Imprint - Our latest stories on makers, their process and techniques" type="rss" xmlUrl="https://imprintspace.com/blogs/stories.atom" htmlUrl="https://imprintspace.com/blogs/stories" category="woodworking" />
+	<outline text="Chair Notes Blog - Peter Galbert Chairmaker" title="Chair Notes Blog - Peter Galbert Chairmaker" type="rss" xmlUrl="https://www.petergalbert.com/blog?format=rss" htmlUrl="https://www.petergalbert.com/blog/" category="woodworking" />
+	<outline text="Woodworking in a Tiny Shop" title="Woodworking in a Tiny Shop" type="rss" xmlUrl="https://tinyshopww.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://tinyshopww.blogspot.com/" category="woodworking" />
+	<outline text="Sean Hellman" title="Sean Hellman" type="rss" xmlUrl="https://seanhellman.com/feed/" htmlUrl="https://seanhellman.com" category="woodworking" />
+	<outline text="Blacktail Studio" title="Blog - Blacktail Studio" type="rss" xmlUrl="https://www.blacktailstudio.com/blog?format=rss" htmlUrl="https://www.blacktailstudio.com/blog/" category="woodworking" />
+	<outline text="Ana White - Free Woodworking Projects" title="Ana White - Free Woodworking Projects" type="rss" xmlUrl="https://www.ana-white.com/rss.xml" htmlUrl="https://www.ana-white.com/" category="woodworking" />
+	<outline text="Cape Falcon Kayak :: Student Builds" title="Cape Falcon Kayak :: Student Builds" type="rss" xmlUrl="https://builds.capefalconkayaks.com/feed/" htmlUrl="https://builds.capefalconkayaks.com" category="woodworking" />
+	<outline text="Joe's Wood Working Journey" title="Joe's Wood Working Journey" type="rss" xmlUrl="https://joeswoodworkingjourney.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://joeswoodworkingjourney.blogspot.com/" category="woodworking" />
+	<outline text="Rivers Joinery" title="Rivers Joinery" type="rss" xmlUrl="https://riversjoinery.blogspot.com/feeds/posts/default" htmlUrl="https://riversjoinery.blogspot.com/" category="woodworking" />
+	<outline text="The American Peasant" title="The American Peasant" type="rss" xmlUrl="https://christopherschwarz.substack.com/feed" htmlUrl="https://christopherschwarz.substack.com/" category="woodworking" />
   </body>
 </opml>
