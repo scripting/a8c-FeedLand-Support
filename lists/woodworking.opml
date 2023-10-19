@@ -6,7 +6,6 @@
     <dateCreated>Thu, 19 Oct 2023 01:49:13 +0000</dateCreated>
   </head>
   <body>
-    <outline text="Woodworking" title="Woodworking">
 		<outline text="Paul Sellers' Blog" title="Paul Sellers' Blog" type="rss" xmlUrl="https://paulsellers.com/feed/" htmlUrl="https://paulsellers.com" category="woodworking" />
 		<outline text="David Fisher, Carving Explorations" title="David Fisher, Carving Explorations" type="rss" xmlUrl="https://davidffisherblog.wordpress.com/feed/" htmlUrl="https://davidffisher.com" category="woodworking" />
 		<outline text="PETER FOLLANSBEE: JOINER’S NOTES" title="PETER FOLLANSBEE: JOINER’S NOTES" type="rss" xmlUrl="https://pfollansbee.wordpress.com/feed/" htmlUrl="https://pfollansbee.wordpress.com" category="woodworking" />
@@ -31,6 +30,5 @@
 		<outline text="Cape Falcon Kayak :: Student Builds" title="Cape Falcon Kayak :: Student Builds" type="rss" xmlUrl="https://builds.capefalconkayaks.com/feed/" htmlUrl="https://builds.capefalconkayaks.com" category="woodworking" />
 		<outline text="Joe's Wood Working Journey" title="Joe's Wood Working Journey" type="rss" xmlUrl="https://joeswoodworkingjourney.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://joeswoodworkingjourney.blogspot.com/" category="woodworking" />
 		<outline text="Rivers Joinery" title="Rivers Joinery" type="rss" xmlUrl="https://riversjoinery.blogspot.com/feeds/posts/default" htmlUrl="https://riversjoinery.blogspot.com/" category="woodworking" />
-    </outline>
   </body>
 </opml>
