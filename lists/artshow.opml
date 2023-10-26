@@ -6,16 +6,16 @@
 		<description>A collection of feeds that publish works of art.</description>
 		<ownerId>dave.winer@gmail.com</ownerId>
 		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
-		<dateModified>Thu, 26 Oct 2023 01:03:02 GMT</dateModified>
+		<dateModified>Thu, 26 Oct 2023 01:08:59 GMT</dateModified>
 		<expansionState></expansionState>
-		<lastCursor>6</lastCursor>
+		<lastCursor>11</lastCursor>
 		</head>
 	<body>
-		<outline text="Andy Warhol" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:warhol.bsky.social" created="Wed Oct 25 2023 20:50:54 GMT-0400 (Eastern Daylight Time)"/>
-		<outline text="Claude Monet" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:monet.bsky.social" created="Wed Oct 25 2023 20:52:21 GMT-0400 (Eastern Daylight Time)"/>
-		<outline text="Edvard Munch" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:edvardmunch.bsky.social" created="Wed Oct 25 2023 20:49:39 GMT-0400 (Eastern Daylight Time)"/>
-		<outline text="Egon Schiele" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:artistschiele.bsky.social" created="Thu, 26 Oct 2023 00:56:42 GMT"/>
-		<outline text="Great art on Bluesky" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:artshow.bsky.social" created="Sun, 15 Oct 2023 16:17:58 GMT">
+		<outline text="Andy Warhol" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:warhol.bsky.social" created="Wed Oct 25 2023 20:50:54 GMT-0400 (Eastern Daylight Time)" category="art"/>
+		<outline text="Claude Monet" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:monet.bsky.social" created="Wed Oct 25 2023 20:52:21 GMT-0400 (Eastern Daylight Time)" category="art"/>
+		<outline text="Edvard Munch" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:edvardmunch.bsky.social" created="Wed Oct 25 2023 20:49:39 GMT-0400 (Eastern Daylight Time)" category="art"/>
+		<outline text="Egon Schiele" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:artistschiele.bsky.social" created="Thu, 26 Oct 2023 00:56:42 GMT" category="art"/>
+		<outline text="Great art on Bluesky" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:artshow.bsky.social" created="Sun, 15 Oct 2023 16:17:58 GMT" category="art">
 			<outline text="&lt;p&gt;@djosephdixon Ok, here&amp;#39;s Marc Chagall @artistchagall. Cheers, @andreitr&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcmh2hpfet2i" created="Thu, 26 Oct 2023 00:57:00 GMT"/>
 			<outline text="&lt;p&gt;Hans Holbein the Younger, Song of Solomon I, 16th century #hansholbeintheyounger&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcmdp62jgj2k"/>
 			<outline text="&lt;p&gt;Seated woman, 1923 #pablopicasso #picasso&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcmaduawkz22"/>
@@ -67,12 +67,12 @@
 			<outline text="&lt;p&gt;A breton boy, 1889 #postimpressionism #paulgauguin&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcgryvai6g2c"/>
 			<outline text="&lt;p&gt;Paysage à l&amp;#39;arbre rond (Landscape with a round tree), 1906 #jeanmetzinger #divisionism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcgonmhint2w"/>
 			</outline>
-		<outline text="Henri Matisse" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:henrimatisse.bsky.social" created="Wed Oct 25 2023 20:52:50 GMT-0400 (Eastern Daylight Time)"/>
-		<outline text="Jean-Michel Basquiat" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:basquiat.bsky.social" created="Wed Oct 25 2023 21:02:13 GMT-0400 (Eastern Daylight Time)"/>
-		<outline text="MoMA Paintings and Sculpture" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:moma.bsky.social" created="Thu, 26 Oct 2023 00:56:40 GMT"/>
-		<outline text="Paul Cezanne" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:cezanne.bsky.social" created="Wed Oct 25 2023 20:50:29 GMT-0400 (Eastern Daylight Time)"/>
-		<outline text="Paul Gauguin" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:gauguin.bsky.social" created="Wed Oct 25 2023 20:51:23 GMT-0400 (Eastern Daylight Time)"/>
-		<outline text="Tate Collection" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:tate.bsky.social" created="Thu, 26 Oct 2023 00:56:36 GMT"/>
-		<outline text="Vincent van Gogh" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:vangogh.bsky.social" created="Wed Oct 25 2023 20:56:28 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="Henri Matisse" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:henrimatisse.bsky.social" created="Wed Oct 25 2023 20:52:50 GMT-0400 (Eastern Daylight Time)" category="art"/>
+		<outline text="Jean-Michel Basquiat" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:basquiat.bsky.social" created="Wed Oct 25 2023 21:02:13 GMT-0400 (Eastern Daylight Time)" category="art"/>
+		<outline text="MoMA Paintings and Sculpture" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:moma.bsky.social" created="Thu, 26 Oct 2023 00:56:40 GMT" category="art"/>
+		<outline text="Paul Cezanne" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:cezanne.bsky.social" created="Wed Oct 25 2023 20:50:29 GMT-0400 (Eastern Daylight Time)" category="art"/>
+		<outline text="Paul Gauguin" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:gauguin.bsky.social" created="Wed Oct 25 2023 20:51:23 GMT-0400 (Eastern Daylight Time)" category="art"/>
+		<outline text="Tate Collection" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:tate.bsky.social" created="Thu, 26 Oct 2023 00:56:36 GMT" category="art"/>
+		<outline text="Vincent van Gogh" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:vangogh.bsky.social" created="Wed Oct 25 2023 20:56:28 GMT-0400 (Eastern Daylight Time)" category="art"/>
 		</body>
 	</opml>
