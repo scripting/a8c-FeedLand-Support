@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Art feeds</title>
+		<dateCreated>Sun, 15 Oct 2023 16:11:04 GMT</dateCreated>
+		<description>A collection of feeds that publish works of art.</description>
+		<ownerId>dave.winer@gmail.com</ownerId>
+		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
+		<dateModified>Thu, 26 Oct 2023 01:03:02 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>6</lastCursor>
+		</head>
+	<body>
+		<outline text="Andy Warhol" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:warhol.bsky.social" created="Wed Oct 25 2023 20:50:54 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="Claude Monet" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:monet.bsky.social" created="Wed Oct 25 2023 20:52:21 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="Edvard Munch" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:edvardmunch.bsky.social" created="Wed Oct 25 2023 20:49:39 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="Egon Schiele" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:artistschiele.bsky.social" created="Thu, 26 Oct 2023 00:56:42 GMT"/>
+		<outline text="Great art on Bluesky" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:artshow.bsky.social" created="Sun, 15 Oct 2023 16:17:58 GMT">
+			<outline text="&lt;p&gt;@djosephdixon Ok, here&amp;#39;s Marc Chagall @artistchagall. Cheers, @andreitr&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcmh2hpfet2i" created="Thu, 26 Oct 2023 00:57:00 GMT"/>
+			<outline text="&lt;p&gt;Hans Holbein the Younger, Song of Solomon I, 16th century #hansholbeintheyounger&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcmdp62jgj2k"/>
+			<outline text="&lt;p&gt;Seated woman, 1923 #pablopicasso #picasso&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcmaduawkz22"/>
+			<outline text="&lt;p&gt;The Pink Dancers, Before the Ballet, 1884 #degas #edgardegas&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcm4ylgd3u23"/>
+			<outline text="&lt;p&gt;Portrait of Adeline Ravoux, 1890 #postimpressionism #vangogh&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kclzncfztx2b"/>
+			<outline text="&lt;p&gt;Path Through a Field with Willows, 1888 #vincentvangogh #vangogh&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kclwbyqcex2c"/>
+			<outline text="&lt;p&gt;Untitled, 1925 #belgianart #renemagritte&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kclswq5vfo2g"/>
+			<outline text="&lt;p&gt;Marcel Duchamp, Untitled from The Bride Stripped Bare by Her Bachelors, Even (The Green Box) (La mariée mise à nu par ses célibataires, même [Boîte verte]), 1934 #museumarchive #marcelduchamp&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kclplghdp22j"/>
+			<outline text="&lt;p&gt;Composition I, 1931 #rothko #expressionism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kclma5lzua2e"/>
+			<outline text="&lt;p&gt;Portrait of madame Michel-Levy, 1882 #edouardmanet #manet&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcliutxf3h2c"/>
+			<outline text="&lt;p&gt;View from the Dunes with Beach and Piers, 1909 #postimpressionism #mondrian&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kclfjl3cb52u"/>
+			<outline text="&lt;p&gt;Rowing Boats on the Banks of the Oise, 1890 #vincentvangogh #vangogh&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kclc6biplj2u"/>
+			<outline text="&lt;p&gt;Hans Holbein the Younger, Song of Solomon I, 16th century #hansholbeintheyounger&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcl6syixdy2e"/>
+			<outline text="&lt;p&gt;Jackson Pollock, Landscape with Steer, c. 1936–37 #jacksonpollock #museumofmodernart&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcl3hosh232e"/>
+			<outline text="&lt;p&gt;Untitled, 1967 #willemdekooning #americanart&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcky4g6fe32n"/>
+			<outline text="&lt;p&gt;Study of five grotesque heads, 1494 #leonardodavinci #davinci&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kckur4gptz2k"/>
+			<outline text="&lt;p&gt;Revere Beach, 1897 #prendergast #impressionism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kckrftqtdj2r"/>
+			<outline text="&lt;p&gt;Henri Matisse, Reclining Nude, Upside Down (Nu couché, renversé), 1929 #henrimatisse #museumarchive&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcko2kkqe52u"/>
+			<outline text="&lt;p&gt;In Advance of the Broken Arm, 1915 #marcelduchamp #dada&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kckkparz7e2a"/>
+			<outline text="&lt;p&gt;Nest of Owls, 1516 #northernrenaissance #bosch&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kckhdxhohc2w"/>
+			<outline text="&lt;p&gt;Black and Purple Petunias #okeeffe #precisionism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kckdyonlx32u"/>
+			<outline text="&lt;p&gt;Fara San Martino, Abruzzi, 1928 #surrealism #escher&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kckanfh6cm2r"/>
+			<outline text="&lt;p&gt;Willem de Kooning, Unused preparatory drawing for In Memory of My Feelings, 1967 #museumarchive #willemdekooning&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kck5c4cp762f"/>
+			<outline text="&lt;p&gt;Still Life With Pumpkin and Bottle of Rum, 1917 #metzinger #jeanmetzinger&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcjzwtdxad26"/>
+			<outline text="&lt;p&gt;The Entombment, 1507 #hieronymusbosch #bosch&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcjwljcrne2k"/>
+			<outline text="&lt;p&gt;Henri Matisse, The White Fox, 1929 #museumarchive #henrimatisse&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcjtaapdpx2j"/>
+			<outline text="&lt;p&gt;Noah and the Rainbow, 1963 #marcchagall #surrealism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcjpuwyicb2r"/>
+			<outline text="&lt;p&gt;Woman wearing a green headscarf, 1893 #camillepissarro #danishart&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcjmjo6aay2n"/>
+			<outline text="&lt;p&gt;Marc Chagall, Zemphira. Costume design for Scene I of the ballet Aleko, 1942 #marcchagall #museumofmodernart&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kciv2ng2hu26"/>
+			<outline text="&lt;p&gt;The Cage, 1885 #impressionism #berthemorisot&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcirpegygl2g"/>
+			<outline text="&lt;p&gt;Farmhouse, Ravello, 1931 #escher #mcescher&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcioe2m2kk2n"/>
+			<outline text="&lt;p&gt;Standing Nude near Window, 1919 #henrimatisse #matisse&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcikyrseuf2w"/>
+			<outline text="&lt;p&gt;Portrait of Sașa Pană (To My Dear Sașa Pană), 1930 #brauner #victorbrauner&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcihniwysq23"/>
+			<outline text="&lt;p&gt;Seated woman, 1920 #pablopicasso #picasso&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kciec77n2d2h"/>
+			<outline text="&lt;p&gt;Birch and Pine Tree No. 1, 1925 #precisionism #americanart&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kciawvvmwf2u"/>
+			<outline text="&lt;p&gt;Edward Hopper, East Side Interior, 1922 #edwardhopper #americanart&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kci5ln4xor26"/>
+			<outline text="&lt;p&gt;The Exploiters, 1926 #diegorivera #muralism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kci2ade3k22r"/>
+			<outline text="&lt;p&gt;The Papermakers, 1950 #diegorivera #muralism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kchwv2kgqb2r"/>
+			<outline text="&lt;p&gt;Paul Gauguin, Bust of a Tahitian Woman, 1894 #paulgauguin #museumarchive&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kchtjrgp3u2x"/>
+			<outline text="&lt;p&gt;John Singer Sargent, Study of Leg and Arm, for a mural project (?), c. 1895-1910 #johnsingersargent&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kchq6hpkib2w"/>
+			<outline text="&lt;p&gt;A Visit to the Museum, 1885 #impressionism #edgardegas&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kchmt6x3g72j"/>
+			<outline text="&lt;p&gt;Mette Gauguin in an Evening Dress, 1884 #paulgauguin #gauguin&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kchjhvamxl2a"/>
+			<outline text="&lt;p&gt;Tetyana Yablonska @ArtistYablonska #yablonska #tetyanayablonska&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kchg4m3vc32u"/>
+			<outline text="&lt;p&gt;Paul Gauguin, Te po #artmuseum #museumarchive&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kchcrcvrhs2w"/>
+			<outline text="&lt;p&gt;Childe Hassam @childe_hassam #followart #americanart&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kch7g2hbkf23"/>
+			<outline text="&lt;p&gt;Words of the Devil, 1892 #postimpressionism #gauguin&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kch42q5dm72a"/>
+			<outline text="&lt;p&gt;Portrait of Andrea Quaratesi, 1532 #highrenaissance #michelangelo&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcgypgudh22c"/>
+			<outline text="&lt;p&gt;The Masked Ball at the Opera, 1873 #impressionism #edouardmanet&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcgve5oyfd2j"/>
+			<outline text="&lt;p&gt;A breton boy, 1889 #postimpressionism #paulgauguin&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcgryvai6g2c"/>
+			<outline text="&lt;p&gt;Paysage à l&amp;#39;arbre rond (Landscape with a round tree), 1906 #jeanmetzinger #divisionism&lt;/p&gt; " type="link" url="https://bsky.app/profile/artshow.bsky.social/post/3kcgonmhint2w"/>
+			</outline>
+		<outline text="Henri Matisse" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:henrimatisse.bsky.social" created="Wed Oct 25 2023 20:52:50 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="Jean-Michel Basquiat" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:basquiat.bsky.social" created="Wed Oct 25 2023 21:02:13 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="MoMA Paintings and Sculpture" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:moma.bsky.social" created="Thu, 26 Oct 2023 00:56:40 GMT"/>
+		<outline text="Paul Cezanne" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:cezanne.bsky.social" created="Wed Oct 25 2023 20:50:29 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="Paul Gauguin" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:gauguin.bsky.social" created="Wed Oct 25 2023 20:51:23 GMT-0400 (Eastern Daylight Time)"/>
+		<outline text="Tate Collection" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:tate.bsky.social" created="Thu, 26 Oct 2023 00:56:36 GMT"/>
+		<outline text="Vincent van Gogh" type="rss" xmlUrl="https://rss.firesky.tv/?filter=from:vangogh.bsky.social" created="Wed Oct 25 2023 20:56:28 GMT-0400 (Eastern Daylight Time)"/>
+		</body>
+	</opml>
