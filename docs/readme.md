@@ -18,13 +18,13 @@ If you post a <a href="https://github.com/scripting/a8c-FeedLand-Support/issues"
 
 The pages are stored in the <a href="https://github.com/scripting/a8c-FeedLand-Support/tree/main/docs">docs folder</a> on the A8C-FeedLand-Support repo. 
 
-This is the <a href="https://docs.feedland.dev/">docs website</a>, which simply mirrors the docs folder, rendered through a template. I would recommend reading it there. There's a command in the menu that takes you to the GitHub source for the page you're reading. 
+This is the <a href="https://docs.feedland.dev/">docs website</a>, which simply mirrors the docs folder, rendered through a template. I would recommend reading it there. There's a command in the menu that takes you to the GitHub source for the page you're reading.  
 
 You can <a href="https://github.com/scripting/a8c-FeedLand-Support/issues">report problems</a> by posting an issue, or post a pull request.
 
 ### Notes
 
-The docs website is at a temporary URL. I'm hosting it, but expect it to eventually be hosted on an Automattic server. The server is configured to serve out of the docs folder in the repo. 
+The docs website is at a temporary URL. I'm hosting it, but expect it to eventually be hosted on an Automattic server. 
 
 When changes are merged, they are instantly available on the website.
 
