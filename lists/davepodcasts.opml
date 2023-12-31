@@ -1,89 +1,89 @@
 <?xml version="1.0"?>
 <opml version="2.0">
 	<head>
-		<title>Dave's podcasts</title>
-		<description>Podcasts subscribed to by Dave Winer.</description>
-		<dateCreated>Sat, 21 Oct 2023 14:18:15 GMT</dateCreated>
-		<ownerId>dave.winer@gmail.com</ownerId>
-		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
-		<dateModified>Sat, 21 Oct 2023 14:25:31 GMT</dateModified>
-		<expansionState></expansionState>
-		<lastCursor>22</lastCursor>
+		<title>Subscriptions for davewiner (category: podcasts)</title>
+		<description>List created by feedlandDatabase v0.7.31</description>
+		<dateModified>Sun, 31 Dec 2023 17:02:35 GMT</dateModified>
 		</head>
 	<body>
-		<outline text="A History of Rock Music in 500 Songs" type="rss" xmlUrl="https://500songs.com/feed/podcast/" htmlUrl="https://500songs.com/" category="all,podcasts,starters" created="Sat, 21 Oct 2023 14:18:54 GMT"/>
-		<outline text="All In with Chris Hayes" type="rss" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/MSNBC-All-In.xml" htmlUrl="https://www.nbcnews.com/" category="all,podcasts"/>
-		<outline text="American Masters: Creative Spark" type="rss" xmlUrl="http://feeds.feedburner.com/AmericanMastersPBS" htmlUrl="http://www.pbs.org/americanmasters" category="all,podcasts"/>
-		<outline text="Articles and Investigations - ProPublica" type="rss" xmlUrl="http://feeds.propublica.org/propublica/podcast" htmlUrl="https://www.propublica.org/feeds/podcast" category="all,podcasts"/>
-		<outline text="Bag Man" type="rss" xmlUrl="https://rss.art19.com/bagman" htmlUrl="https://www.nbcnews.com/" category="all,podcasts"/>
-		<outline text="Bill Burr's Monday morning podcast" type="rss" xmlUrl="http://www.billburr.com/feed" htmlUrl="https://billburr.com/" category="all,podcasts" created="Sat, 21 Oct 2023 14:19:13 GMT"/>
-		<outline text="Burn Wild" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p0cx6tw7.rss" htmlUrl="http://www.bbc.co.uk/programmes/p0cx6tw7" category="podcasts"/>
-		<outline text="CoinTalk™️" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/4094/rss" htmlUrl="http://cointalk.show/" category="all,podcasts"/>
-		<outline text="Common Sense with Dan Carlin" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense" htmlUrl="http://www.dancarlin.com/" category="all,podcasts"/>
-		<outline text="Countdown with Keith Olbermann" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4cab918b-b4e7-4a21-8300-aec3011bf3f1/e7682aaf-443f-41d8-945f-aec3011c5127/podcast.rss" htmlUrl="https://www.iheart.com/podcast/1119-countdown-with-keith-olbe-99705496/" category="all,podcasts,starters" created="Sat, 21 Oct 2023 14:20:06 GMT"/>
-		<outline text="Coverville: The Cover Music Show" type="rss" xmlUrl="http://feeds.feedburner.com/coverville" htmlUrl="https://www.coverville.com/" category="podcasts"/>
-		<outline text="Criminal" type="rss" xmlUrl="http://thisiscriminal.com/feed/" htmlUrl="https://thisiscriminal.com/" category="all,podcasts"/>
-		<outline text="Decrypted, Ars Technica's TV podcast" type="rss" xmlUrl="http://arsdecrypted.libsyn.com/rss" htmlUrl="http://arstechnica.com/" category="all,podcasts"/>
-		<outline text="Democracy Now! Audio" type="rss" xmlUrl="https://www.democracynow.org/podcast.xml" htmlUrl="http://www.democracynow.org/" category="all,politics,podcasts"/>
-		<outline text="DHUnplugged Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/DHUnplugged" htmlUrl="https://www.dhunplugged.com/" category="all,podcasts" created="Sat, 21 Oct 2023 14:20:29 GMT"/>
-		<outline text="ESPN: The B.S. Report with Bill Simmons" type="rss" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=2864045" htmlUrl="http://www.espn.com/espnradio/podcast/index" category="all,podcasts"/>
-		<outline text="Face the Nation on the Radio" type="rss" xmlUrl="http://feeds.cbsnews.com/podcast_nation_1" htmlUrl="https://art19.com/shows/face-the-nation" category="all,podcasts"/>
-		<outline text="Fiction Podcast" type="rss" xmlUrl="http://www.newyorker.com/services/mrss/feeds/fiction_podcast.xml" htmlUrl="https://www.newyorker.com/" category="all,podcasts"/>
-		<outline text="FiveThirtyEight Politics" type="rss" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=14554755" htmlUrl="https://fivethirtyeight.com/podcasts/" category="all,politics,podcasts"/>
-		<outline text="FrameLab Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:372194030/sounds.rss" htmlUrl="https://soundcloud.com/user-253479697" category="all,podcasts"/>
-		<outline text="Fresh Air" type="rss" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" htmlUrl="https://www.npr.org/podcasts/381444908/fresh-air" category="all,podcasts"/>
-		<outline text="Friday Night Comedy from BBC Radio 4" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/fricomedy/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/p02pc9pj" category="all,podcasts"/>
-		<outline text="FRONTLINE Dispatch" type="rss" xmlUrl="http://feeds.frontline.org/TheFrontlineDispatch" htmlUrl="https://pbs.org/frontlinedispatch" category="podcasts" created="Sat, 21 Oct 2023 14:25:15 GMT"/>
-		<outline text="FRONTLINE: Film Audio Track | PBS" type="rss" xmlUrl="http://feeds.feedburner.com/FrontlineAudiocastPbs" htmlUrl="http://pbs.org/frontline" category="all,podcasts"/>
-		<outline text="Gaslit Nation with Andrea Chalupa and Sarah Kendzior" type="rss" xmlUrl="http://gaslitnation.libsyn.com/rss" htmlUrl="https://www.patreon.com/gaslit" category="all,podcasts"/>
-		<outline text="Guy Kawasaki's Remarkable People" type="rss" xmlUrl="https://feeds.simplecast.com/A7fI4ltj" htmlUrl="https://guykawasaki.com/remarkable-people/" category="all,podcasts"/>
-		<outline text="Hang Up and Listen" type="rss" xmlUrl="http://feeds.feedburner.com/SlateHangUpAndListen" htmlUrl="http://www.slate.com/hangup" category="all,podcasts"/>
-		<outline text="Hard Fork" type="rss" xmlUrl="https://feeds.simplecast.com/l2i9YnTd" htmlUrl="https://www.nytimes.com/column/hard-fork" category="all,podcasts"/>
-		<outline text="Hot Takedown" type="rss" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=12474672" htmlUrl="http://www.espn.com/espnradio/podcast/" category="all,podcasts"/>
-		<outline text="Ideas" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/ideas.xml" htmlUrl="https://www.cbc.ca/radio/ideas" category="all,podcasts"/>
-		<outline text="Internet History Podcast" type="rss" xmlUrl="http://www.internethistorypodcast.com/feed/" htmlUrl="https://www.internethistorypodcast.com/" category="all,tech,podcasts,bloggers"/>
-		<outline text="Invisibilia" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510307" htmlUrl="https://www.npr.org/podcasts/510307/invisibilia" category="all,podcasts"/>
-		<outline text="Mystery Show" type="rss" xmlUrl="http://feeds.gimletmedia.com/mysteryshow" htmlUrl="https://www.gimletmedia.com/mystery-show" category="all,podcasts"/>
-		<outline text="No Agenda" type="rss" xmlUrl="http://feed.nashownotes.com/rss.xml" htmlUrl="http://noagendashow.com" category="podcasts"/>
-		<outline text="Now &amp; Then" type="rss" xmlUrl="https://feeds.megaphone.fm/VMP8436744812" htmlUrl="http://cafe.com/" category="all,politics,podcasts"/>
-		<outline text="On the Media" type="rss" xmlUrl="http://feeds.wnyc.org/onthemedia" htmlUrl="https://www.wnycstudios.org/podcasts/otm" category="all,podcasts,starters"/>
-		<outline text="Open Source with Christopher Lydon" type="rss" xmlUrl="https://radioopensource.org/feed/" htmlUrl="https://radioopensource.org/" category="all,podcasts,starters"/>
-		<outline text="Out Loud Podcast" type="rss" xmlUrl="http://www.newyorker.com/services/rss/feeds/newyorker_outloud.xml" htmlUrl="https://www.newyorker.com/" category="all,podcasts"/>
-		<outline text="Planet Money : NPR" type="rss" xmlUrl="https://www.npr.org/rss/rss.php?id=93559255" htmlUrl="https://www.npr.org/sections/money/" category="all,podcasts"/>
-		<outline text="Podnews Daily - podcasting news" type="rss" xmlUrl="https://podnews.net/rss" htmlUrl="https://podnews.net/" category="all,podcasts,starters"/>
-		<outline text="Preserve This Podcast" type="rss" xmlUrl="http://rss.simplecast.com/podcasts/10324/rss" htmlUrl="http://preservethispodcast.org/" category="all,podcasts"/>
-		<outline text="Radio Diaries" type="rss" xmlUrl="http://feed.radiodiaries.org/radio-diaries" htmlUrl="http://www.radiodiaries.org/" category="all,podcasts"/>
-		<outline text="Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts" category="all,podcasts,starters"/>
-		<outline text="Recode Media with Peter Kafka" type="rss" xmlUrl="http://feeds.feedburner.com/Recode-Media" htmlUrl="https://www.vox.com/recode-media-podcast" category="all,podcasts"/>
-		<outline text="Reply All" type="rss" xmlUrl="http://feeds.gimletmedia.com/hearreplyall" htmlUrl="http://gimletmedia.com/shows/reply-all" category="all,podcasts"/>
-		<outline text="Rough Translation" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510324" htmlUrl="https://www.npr.org/podcasts/510324/rough-translation" category="all,podcasts"/>
-		<outline text="Rudy Rucker Podcasts" type="rss" xmlUrl="http://www.rudyrucker.com/blog/category/podcasts/feed/" htmlUrl="https://www.rudyrucker.com/blog/category/podcasts/" category="all,podcasts"/>
-		<outline text="Serial" type="rss" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="https://serialpodcast.org/" category="all,podcasts"/>
-		<outline text="ShopTalk" type="rss" xmlUrl="http://shoptalkshow.com/feed/" htmlUrl="https://shoptalkshow.com/" category="all,podcasts"/>
-		<outline text="Shorenstein Center Media and Politics Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/shorensteincenter/MediaAndPoliticsPodcast" htmlUrl="http://shorensteincenter.org/" category="all,podcasts"/>
-		<outline text="Short Cuts" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/shortcuts/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b01mk3f8" category="all,podcasts"/>
-		<outline text="Slate Daily Feed" type="rss" xmlUrl="http://feeds.feedburner.com/SlateMagazineDailyPodcast" htmlUrl="http://www.slate.com/podcasts" category="all,podcasts"/>
-		<outline text="Slate News" type="rss" xmlUrl="http://feeds.megaphone.fm/trumpcast" htmlUrl="https://feeds-origin.megaphone.fm/slate.com/podcasts" category="all,podcasts"/>
-		<outline text="Slow Burn" type="rss" xmlUrl="http://feeds.megaphone.fm/watergate" htmlUrl="http://slate.com/slowburn" category="all,podcasts"/>
-		<outline text="Smoking Hot Coffee - Audio" type="rss" xmlUrl="http://feeds.feedburner.com/smokinghotcoffee-audio" htmlUrl="https://www.smokinghotcoffee.com/" category="all,podcasts"/>
-		<outline text="Studio 360 with Kurt Andersen" type="rss" xmlUrl="http://feeds.wnyc.org/studio360/podcast" htmlUrl="https://www.pri.org/programs/studio-360" category="all,podcasts"/>
-		<outline text="TED Radio Hour" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510298" htmlUrl="https://www.npr.org/podcasts/510298/ted-radio-hour" category="all,podcasts"/>
-		<outline text="That Trippi Show" type="rss" xmlUrl="https://feeds.megaphone.fm/trippishow" htmlUrl="https://redcircle.com/shows/that-trippi-show" category="all,podcasts,starters" created="Sat, 21 Oct 2023 14:25:04 GMT"/>
-		<outline text="The Beat with Ari Melber" type="rss" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/the-beat-with-ari-melber.xml" htmlUrl="https://www.nbcnews.com/" category="all,podcasts"/>
-		<outline text="The Brian Lehrer Show" type="rss" xmlUrl="https://www.wnyc.org/feeds/shows/bl" htmlUrl="https://www.wnyc.org/shows/bl" category="all,politics,podcasts"/>
-		<outline text="The Daily" type="rss" xmlUrl="https://feeds.simplecast.com/54nAGcIl" htmlUrl="https://www.nytimes.com/the-daily" category="all,nyt,podcasts,starters"/>
-		<outline text="The Daily" type="rss" xmlUrl="https://feeds.simplecast.com/54nAGcIl" htmlUrl="https://www.nytimes.com/the-daily" category="all,nyt,podcasts,starters"/>
-		<outline text="The Documentary Podcast" type="rss" xmlUrl="http://podcasts.files.bbci.co.uk/p02nq0lx.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nq0lx" category="all,podcasts"/>
-		<outline text="The Ethicists" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/podcasts/the-ethicists.xml" htmlUrl="http://www.nytimes.com/column/the-ethicist/" category="all,podcasts"/>
-		<outline text="The Guardian Books podcast | The Guardian" type="rss" xmlUrl="http://www.theguardian.com/books/series/books/rss" htmlUrl="https://www.theguardian.com/books/series/books" category="all,podcasts"/>
-		<outline text="The Moment with Brian Koppelman" type="rss" xmlUrl="http://feeds.feedburner.com/the-moment" htmlUrl="https://shows.cadence13.com/podcast/themomentwithbriankoppelman" category="all,podcasts"/>
-		<outline text="The Moth" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast" htmlUrl="http://themoth.org/" category="all,podcasts"/>
-		<outline text="The New Washington" type="rss" xmlUrl="https://rss.art19.com/the-new-washington" htmlUrl="https://the-new-washington.simplecast.com/" category="all,podcasts"/>
-		<outline text="The New Yorker Radio Hour" type="rss" xmlUrl="http://feeds.wnyc.org/newyorkerradiohour" htmlUrl="https://www.wnycstudios.org/podcasts/tnyradiohour" category="all,podcasts,starters" created="Sat, 21 Oct 2023 14:20:57 GMT"/>
-		<outline text="The NPR Politics Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510310" htmlUrl="https://www.npr.org/podcasts/510310/npr-politics-podcast" category="all,podcasts,starters"/>
-		<outline text="The Talk Show With John Gruber" type="rss" xmlUrl="https://daringfireball.net/thetalkshow/rss" htmlUrl="https://daringfireball.net/thetalkshow" category="all,podcasts,bloggers,starters" created="Sat, 21 Oct 2023 14:21:01 GMT"/>
-		<outline text="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="https://www.thisamericanlife.org/" category="all,podcasts,starters"/>
-		<outline text="Transistor" type="rss" xmlUrl="http://feeds.prx.org/transistor_stem" htmlUrl="https://transistor.prx.org/" category="all,podcasts"/>
-		<outline text="With her" type="rss" xmlUrl="http://feeds.megaphone.fm/PSM7954412883" htmlUrl="https://www.hillaryclinton.com/podcast" category="all,podcasts"/>
+		<outline type="rss" text="The New Yorker" xmlUrl="https://www.newyorker.com/feed/rss" htmlUrl="https://www.newyorker.com/" category="all,politics,podcasts" />
+		<outline type="rss" text="In Our Time" xmlUrl="https://podcasts.files.bbci.co.uk/b006qykl.rss" htmlUrl="http://www.bbc.co.uk/programmes/b006qykl" category="all,podcasts" />
+		<outline type="rss" text="The Atlantic" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl="https://www.theatlantic.com/" category="all,podcasts" />
+		<outline type="rss" text="Post Reports" xmlUrl="https://podcast.posttv.com/itunes/post-reports.xml" category="all,politics,podcasts" />
+		<outline type="rss" text="The New Yorker Radio Hour" xmlUrl="https://feeds.simplecast.com/TRuO_SRo" htmlUrl="https://www.wnycstudios.org/podcasts/tnyradiohour" category="all,politics,podcasts" />
+		<outline type="rss" text="A History of Rock Music in 500 Songs" xmlUrl="https://500songs.com/feed/" htmlUrl="https://500songs.com/" category="all,podcasts,bloggers" />
+		<outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" htmlUrl="https://www.nytimes.com/the-daily" category="all,nyt,podcasts,starters" />
+		<outline type="rss" text="TED Radio Hour" xmlUrl="http://www.npr.org/rss/podcast.php?id=510298" htmlUrl="https://www.npr.org/podcasts/510298/ted-radio-hour" category="all,podcasts" />
+		<outline type="rss" text="The Talk Show With John Gruber" xmlUrl="https://daringfireball.net/thetalkshow/rss" htmlUrl="https://daringfireball.net/thetalkshow" category="all,podcasts,bloggers,starters" />
+		<outline type="rss" text="A History of Rock Music in 500 Songs" xmlUrl="https://500songs.com/feed/podcast/" htmlUrl="https://500songs.com/" category="all,podcasts,starters" />
+		<outline type="rss" text="The Guardian Books podcast | The Guardian" xmlUrl="http://www.theguardian.com/books/series/books/rss" htmlUrl="https://www.theguardian.com/books/series/books" category="all,podcasts" />
+		<outline type="rss" text="The Ethicists" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/podcasts/the-ethicists.xml" htmlUrl="http://www.nytimes.com/column/the-ethicist/" category="all,podcasts" />
+		<outline type="rss" text="The NPR Politics Podcast" xmlUrl="http://www.npr.org/rss/podcast.php?id=510310" htmlUrl="https://www.npr.org/podcasts/510310/npr-politics-podcast" category="all,podcasts,starters" />
+		<outline type="rss" text="Invisibilia" xmlUrl="http://www.npr.org/rss/podcast.php?id=510307" htmlUrl="https://www.npr.org/podcasts/510307/invisibilia" category="all,podcasts" />
+		<outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" htmlUrl="https://www.nytimes.com/the-daily" category="all,nyt,podcasts,starters" />
+		<outline type="rss" text="Out Loud Podcast" xmlUrl="http://www.newyorker.com/services/rss/feeds/newyorker_outloud.xml" htmlUrl="https://www.newyorker.com/" category="all,podcasts" />
+		<outline type="rss" text="Fiction Podcast" xmlUrl="http://www.newyorker.com/services/mrss/feeds/fiction_podcast.xml" htmlUrl="https://www.newyorker.com/" category="all,podcasts" />
+		<outline type="rss" text="Internet History Podcast" xmlUrl="http://www.internethistorypodcast.com/feed/" htmlUrl="https://www.internethistorypodcast.com/" category="all,tech,podcasts,bloggers" />
+		<outline type="rss" text="Ideas" xmlUrl="http://www.cbc.ca/podcasting/includes/ideas.xml" htmlUrl="https://www.cbc.ca/radio/ideas" category="all,podcasts" />
+		<outline type="rss" text="" xmlUrl="http://www.billburr.com/feed" htmlUrl="https://billburr.com/" category="all,podcasts" />
+		<outline type="rss" text="Criminal" xmlUrl="http://thisiscriminal.com/feed/" htmlUrl="https://thisiscriminal.com/" category="all,podcasts" />
+		<outline type="rss" text="ESPN: The B.S. Report with Bill Simmons" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=2864045" htmlUrl="http://www.espn.com/espnradio/podcast/index" category="all,podcasts" />
+		<outline type="rss" text="FiveThirtyEight Politics" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=14554755" htmlUrl="https://fivethirtyeight.com/podcasts/" category="all,politics,podcasts" />
+		<outline type="rss" text="Open Source with Christopher Lydon" xmlUrl="https://radioopensource.org/feed/" htmlUrl="https://radioopensource.org/" category="all,podcasts,starters" />
+		<outline type="rss" text="The Brian Lehrer Show" xmlUrl="https://www.wnyc.org/feeds/shows/bl" htmlUrl="https://www.wnyc.org/shows/bl" category="all,politics,podcasts" />
+		<outline type="rss" text="Countdown with Keith Olbermann" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4cab918b-b4e7-4a21-8300-aec3011bf3f1/e7682aaf-443f-41d8-945f-aec3011c5127/podcast.rss" htmlUrl="https://www.iheart.com/podcast/1119-countdown-with-keith-olbe-99705496/" category="all,podcasts,starters" />
+		<outline type="rss" text="Planet Money : NPR" xmlUrl="https://www.npr.org/rss/rss.php?id=93559255" htmlUrl="https://www.npr.org/sections/money/" category="all,podcasts" />
+		<outline type="rss" text="Rough Translation" xmlUrl="https://www.npr.org/rss/podcast.php?id=510324" htmlUrl="https://www.npr.org/podcasts/510324/rough-translation" category="all,podcasts" />
+		<outline type="rss" text="Democracy Now! Audio" xmlUrl="https://www.democracynow.org/podcast.xml" htmlUrl="https://www.democracynow.org/" category="all,politics,podcasts" />
+		<outline type="rss" text="CoinTalk™️" xmlUrl="https://rss.simplecast.com/podcasts/4094/rss" htmlUrl="http://cointalk.show/" category="all,podcasts" />
+		<outline type="rss" text="The New Washington" xmlUrl="https://rss.art19.com/the-new-washington" htmlUrl="https://the-new-washington.simplecast.com/" category="all,podcasts" />
+		<outline type="rss" text="Bag Man" xmlUrl="https://rss.art19.com/bagman" htmlUrl="https://www.nbcnews.com/" category="all,podcasts" />
+		<outline type="rss" text="That Trippi Show" xmlUrl="https://feeds.megaphone.fm/trippishow" htmlUrl="https://redcircle.com/shows/that-trippi-show" category="all,podcasts,starters" />
+		<outline type="rss" text="Podnews Daily - podcasting news" xmlUrl="https://podnews.net/rss" htmlUrl="https://podnews.net/" category="all,podcasts,starters" />
+		<outline type="rss" text="Burn Wild" xmlUrl="https://podcasts.files.bbci.co.uk/p0cx6tw7.rss" htmlUrl="http://www.bbc.co.uk/programmes/p0cx6tw7" category="podcasts" />
+		<outline type="rss" text="Hard Fork" xmlUrl="https://feeds.simplecast.com/l2i9YnTd" htmlUrl="https://www.nytimes.com/column/hard-fork" category="all,podcasts" />
+		<outline type="rss" text="Guy Kawasaki's Remarkable People" xmlUrl="https://feeds.simplecast.com/A7fI4ltj" htmlUrl="https://guykawasaki.com/remarkable-people/" category="all,podcasts" />
+		<outline type="rss" text="Hot Takedown" xmlUrl="http://sports.espn.go.com/espnradio/podcast/feeds/itunes/podCast?id=12474672" htmlUrl="http://www.espn.com/espnradio/podcast/" category="all,podcasts" />
+		<outline type="rss" text="Fresh Air" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" htmlUrl="https://www.npr.org/podcasts/381444908/fresh-air" category="all,podcasts" />
+		<outline type="rss" text="Now &amp; Then" xmlUrl="https://feeds.megaphone.fm/VMP8436744812" htmlUrl="http://cafe.com/" category="all,politics,podcasts" />
+		<outline type="rss" text="FRONTLINE: Film Audio Track | PBS" xmlUrl="http://feeds.feedburner.com/FrontlineAudiocastPbs" htmlUrl="http://pbs.org/frontline" category="all,podcasts" />
+		<outline type="rss" text="Mystery Show" xmlUrl="http://feeds.gimletmedia.com/mysteryshow" htmlUrl="https://www.gimletmedia.com/mystery-show" category="all,podcasts" />
+		<outline type="rss" text="Reply All" xmlUrl="http://feeds.gimletmedia.com/hearreplyall" htmlUrl="http://gimletmedia.com/shows/reply-all" category="all,podcasts" />
+		<outline type="rss" text="The FRONTLINE Dispatch" xmlUrl="http://feeds.frontline.org/TheFrontlineDispatch" htmlUrl="https://pbs.org/frontlinedispatch" category="podcasts" />
+		<outline type="rss" text="The Moment with Brian Koppelman" xmlUrl="http://feeds.feedburner.com/the-moment" htmlUrl="https://shows.cadence13.com/podcast/themomentwithbriankoppelman" category="all,podcasts" />
+		<outline type="rss" text="Smoking Hot Coffee - Audio" xmlUrl="http://feeds.feedburner.com/smokinghotcoffee-audio" htmlUrl="https://www.smokinghotcoffee.com/" category="all,podcasts" />
+		<outline type="rss" text="Slate Daily Feed" xmlUrl="http://feeds.feedburner.com/SlateMagazineDailyPodcast" htmlUrl="http://www.slate.com/podcasts" category="all,podcasts" />
+		<outline type="rss" text="Hang Up and Listen" xmlUrl="http://feeds.feedburner.com/SlateHangUpAndListen" htmlUrl="http://www.slate.com/hangup" category="all,podcasts" />
+		<outline type="rss" text="Shorenstein Center Media and Politics Podcast" xmlUrl="http://feeds.feedburner.com/shorensteincenter/MediaAndPoliticsPodcast" htmlUrl="http://shorensteincenter.org/" category="all,podcasts" />
+		<outline type="rss" text="Recode Media with Peter Kafka" xmlUrl="http://feeds.feedburner.com/Recode-Media" htmlUrl="https://www.vox.com/recode-media-podcast" category="all,podcasts" />
+		<outline type="rss" text="With her" xmlUrl="http://feeds.megaphone.fm/PSM7954412883" htmlUrl="https://www.hillaryclinton.com/podcast" category="all,podcasts" />
+		<outline type="rss" text="DHUnplugged Podcast" xmlUrl="http://feeds.feedburner.com/DHUnplugged" htmlUrl="https://www.dhunplugged.com/" category="all,podcasts" />
+		<outline type="rss" text="Common Sense with Dan Carlin" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense" htmlUrl="http://www.dancarlin.com/" category="all,podcasts" />
+		<outline type="rss" text="Coverville: The Cover Music Show" xmlUrl="http://feeds.feedburner.com/coverville" htmlUrl="https://www.coverville.com/" category="podcasts" />
+		<outline type="rss" text="American Masters: Creative Spark" xmlUrl="http://feeds.feedburner.com/AmericanMastersPBS" htmlUrl="http://www.pbs.org/americanmasters" category="all,podcasts" />
+		<outline type="rss" text="Face the Nation on the Radio" xmlUrl="http://feeds.cbsnews.com/podcast_nation_1" htmlUrl="https://art19.com/shows/face-the-nation" category="all,podcasts" />
+		<outline type="rss" text="Radio Diaries" xmlUrl="http://feed.radiodiaries.org/radio-diaries" htmlUrl="http://www.radiodiaries.org/" category="all,podcasts" />
+		<outline type="rss" text="No Agenda" xmlUrl="http://feed.nashownotes.com/rss.xml" htmlUrl="http://noagendashow.com" category="podcasts" />
+		<outline type="rss" text="Short Cuts" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/shortcuts/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b01mk3f8" category="all,podcasts" />
+		<outline type="rss" text="Friday Night Comedy from BBC Radio 4" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/fricomedy/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/p02pc9pj" category="all,podcasts" />
+		<outline type="rss" text="The New Yorker Radio Hour" xmlUrl="http://feeds.wnyc.org/newyorkerradiohour" htmlUrl="https://www.wnycstudios.org/podcasts/tnyradiohour" category="all,podcasts,starters" />
+		<outline type="rss" text="ShopTalk" xmlUrl="http://shoptalkshow.com/feed/" htmlUrl="http://shoptalkshow.com/" category="all,podcasts" />
+		<outline type="rss" text="Preserve This Podcast" xmlUrl="http://rss.simplecast.com/podcasts/10324/rss" htmlUrl="http://preservethispodcast.org/" category="all,podcasts" />
+		<outline type="rss" text="The Documentary Podcast" xmlUrl="http://podcasts.files.bbci.co.uk/p02nq0lx.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nq0lx" category="all,podcasts" />
+		<outline type="rss" text="The Beat with Ari Melber" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/the-beat-with-ari-melber.xml" htmlUrl="https://www.nbcnews.com/" category="all,podcasts" />
+		<outline type="rss" text="All In with Chris Hayes" xmlUrl="http://podcastfeeds.nbcnews.com/drone/api/query/audio/podcast/1.0/MSNBC-All-In.xml" htmlUrl="https://www.nbcnews.com/" category="all,podcasts" />
+		<outline type="rss" text="Gaslit Nation" xmlUrl="http://gaslitnation.libsyn.com/rss" htmlUrl="http://sites.libsyn.com/124622/site" category="all,podcasts" />
+		<outline type="rss" text="Studio 360 with Kurt Andersen" xmlUrl="http://feeds.wnyc.org/studio360/podcast" htmlUrl="https://www.pri.org/programs/studio-360" category="all,podcasts" />
+		<outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts" category="all,podcasts,starters" />
+		<outline type="rss" text="On the Media" xmlUrl="http://feeds.wnyc.org/onthemedia" htmlUrl="https://www.wnycstudios.org/podcasts/otm" category="all,podcasts,starters" />
+		<outline type="rss" text="Decrypted, Ars Technica's TV podcast" xmlUrl="http://arsdecrypted.libsyn.com/rss" htmlUrl="http://arstechnica.com/" category="all,podcasts" />
+		<outline type="rss" text="This American Life" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="https://www.thisamericanlife.org/" category="all,podcasts,starters" />
+		<outline type="rss" text="The Moth" xmlUrl="http://feeds.themoth.org/themothpodcast" htmlUrl="http://themoth.org/" category="all,podcasts" />
+		<outline type="rss" text="FrameLab Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:372194030/sounds.rss" htmlUrl="https://soundcloud.com/user-253479697" category="all,podcasts" />
+		<outline type="rss" text="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="https://serialpodcast.org/" category="all,podcasts" />
+		<outline type="rss" text="Transistor" xmlUrl="http://feeds.prx.org/transistor_stem" htmlUrl="https://transistor.prx.org/" category="all,podcasts" />
+		<outline type="rss" text="Articles and Investigations - ProPublica" xmlUrl="http://feeds.propublica.org/propublica/podcast" htmlUrl="https://www.propublica.org/feeds/podcast" category="all,podcasts" />
+		<outline type="rss" text="Slow Burn" xmlUrl="http://feeds.megaphone.fm/watergate" htmlUrl="http://slate.com/slowburn" category="all,podcasts" />
+		<outline type="rss" text="Slate News" xmlUrl="http://feeds.megaphone.fm/trumpcast" htmlUrl="https://feeds-origin.megaphone.fm/slate.com/podcasts" category="all,podcasts" />
 		</body>
 	</opml>
