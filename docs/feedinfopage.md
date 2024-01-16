@@ -1,4 +1,4 @@
-# Feed Info page 
+# Feed Info page  
 
 Each feed that FeedLand follows has a Feed Info page. 
 
@@ -22,7 +22,7 @@ The link to the <i>Feed</i> displays the contents of the feed on <a href="http:/
 
 ### View and edit categories
 
-The <i>Categories</i> row lists the categories you have assigned to the feed. If you click the (Edit) button you can change the category assignments in the <a href="http://scripting.com/images/2022/10/19/categoriesDialogScreen.png">dialog</a>. 
+The <i>Categories</i> row lists the categories you have assigned to the feed. If you click the (Edit) button you can change the category assignments in the <a href="https://imgs.scripting.com/2022/10/19/categoriesDialogScreen.png">dialog</a>. 
 
 ### View as
 

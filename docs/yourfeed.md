@@ -1,4 +1,4 @@
-# Your FeedLand feed  
+# Your FeedLand feed   
 
 FeedLand takes a social media approach to feeds, like Twitter, Bluesky, Mastodon or Threads. 
 
@@ -24,7 +24,7 @@ To edit the text in an item, click on the text in the list. The text then appear
 
 If you decide you don't want to save your changes, click the Cancel button. 
 
-Here's a <a href="http://scripting.com/images/2022/11/08/editboxbeingusedtoedittext.png">screen shot</a> of the edit box being used to edit an existing item.
+Here's a <a href="https://imgs.scripting.com/2022/11/08/editboxbeingusedtoedittext.png">screen shot</a> of the edit box being used to edit an existing item.
 
 In this mode, the text is not saved to the server as you make changes. 
 
@@ -32,17 +32,19 @@ In this mode, the text is not saved to the server as you make changes.
 
 If you want more info about the published feed, click the (Feed) link next to the feed title. It will take you to the Feed Info page, which includes the URL of your feed. 
 
-If your username is bullmancuso, this is <a href="http://data.feedland.org/feeds/bullmancuso.xml">where</a> your feed would be. 
+If your username is bullmancuso, this is <a href="http://data.feedland.com/feeds/bullmancuso.xml">where</a> your feed would be. 
 
-Here's the <a href="http://feedland.org/?feedurl=http%3A%2F%2Fdata.feedland.org%2Ffeeds%2Fbullmancuso.xml">Feed Info page</a> for bullmancuso.
+Here's the <a href="https://feedland.com/?feedurl=https%3A%2F%2Fdata.feedland.com%2Ffeeds%2Fbullmancuso.xml">Feed Info page</a> for bullmancuso.
 
-If you want to change the title or description of your blog, choose Settings from the right-most menu, click on the Feed tab and you can edit it there. <a href="http://scripting.com/images/2022/11/08/settingsdialogscreen.png">Screen shot</a>.
+If you want to change the title or description of your blog, choose Settings from the right-most menu, click on the Feed tab and you can edit it there. <a href="https://imgs.scripting.com/2022/11/08/settingsdialogscreen.png">Screen shot</a>.
 
-### The bookmarklet
+### Bookmarklets
 
-Choose <i>Install bookmarklet</i> from the <a href="https://imgs.scripting.com/2023/08/19/installBookmarklet.png">Tools menu</a> to go to a page that lets you create a bookmarklet for linkblogging with FeedLand. 
+We have two bookmarklets you can install from the sub-menu of the Tools menu, one for linkblogging, the other for subscribing to feeds.
 
-Once installed, when you are on a web page that you want to link to from your feed, click the bookmarklet. FeedLand will open in a new tab with the title of the page in the editbox and a link to the page in the link field in the Title, Link & Enclosure section of the editbox. 
+Once installed, when you are on a web page that you want to link to from your feed, click the linkblogging bookmarklet. FeedLand will open in a new tab with the title of the page in the editbox and a link to the page in the link field in the Title, Link & Enclosure section of the editbox. 
+
+Similarly, when you click on the subscribing bookmarklet, you're returned to FeedLand where you can subscribe to the feed for the page you were viewing, if we can find it.
 
 If you select text on the page before clicking the bookmarklet, that text will appear in the editbox, and the title of the page will appear in the Title element of the TLE section of the editbox.
 
@@ -60,7 +62,7 @@ When your feed is saved, FeedLand generates an RSS &lt;enclosure> element, inclu
 
 ### Markdown is just enough HTML
 
-If you look at a <a href="http://data.feedland.org/feeds/davewiner.xml">feed</a>, you'll see that the text is saved in the feed in both HTML and Markdown. 
+If you look at a <a href="http://data.feedland.com/feeds/davewiner.xml">feed</a>, you'll see that the text is saved in the feed in both HTML and Markdown. 
 
 We think more writing apps should support Markdown in feeds, because it would make the feed world richer and safer. 
 

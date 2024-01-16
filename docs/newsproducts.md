@@ -2,11 +2,11 @@
 
 A news product is a one-page website you create with FeedLand for people outside of FeedLand to read.    
 
-### Example
+### Example 
 
 An example of a news product is <a href="http://mlbriver.com/">mlbriver.com</a>. It's a constantly updated list of news stories about baseball. I created the template to be clean and simple. I could have put the news flow in the middle of a template with other information, or as part of a larger website. 
 
-<img src="http://scripting.com/images/2022/09/19/newsProductScreenShot.png">
+<img src="https://imgs.scripting.com/2022/09/19/newsProductScreenShot.png">
 
 ### My news product
 
@@ -30,11 +30,11 @@ This is how you can create your own News product.
 
 3. Click on the <i>News Products</i> tab. You can choose a title, description and image to appear at the top of your page. Leave any of these items blank if you don't want to use them.
 
-4. You can enter some CSS styles or JavaScript code in the text boxes for CSS and Script. <a href="http://scripting.com/images/2022/09/28/newsProductsSettingsPanel.png">Screen shot</a>. 
+4. You can enter some CSS styles or JavaScript code in the text boxes for CSS and Script. <a href="https://imgs.scripting.com/2022/09/28/newsProductsSettingsPanel.png">Screen shot</a>. 
 
 5. When you're done, click OK to save the settings. 
 
-6. To see what your news product looks like choose <i>My news product</i> from the menu. <a href="http://scripting.com/images/2022/09/28/myNewsProductMenuItem.png">Screen shot</a>.
+6. To see what your news product looks like choose <i>My news product</i> from the menu. <a href="https://imgs.scripting.com/2022/09/28/myNewsProductMenuItem.png">Screen shot</a>.
 
 7. When you're ready to share this, you can give the URL to people outside the FeedLand community. 
 
@@ -74,7 +74,7 @@ Here's a <a href="http://product.scripting.com/?template=http://scripting.com/pu
 
 And here's the product as <a href="http://scripting.com/misc/feedlandDemo1.html">deployed</a> on scripting.com.
 
-And a <a href="http://scripting.com/images/2022/10/06/demoScreenshot.png">screen shot</a> of what the demo should look like.
+And a <a href="https://imgs.scripting.com/2022/10/06/demoScreenshot.png">screen shot</a> of what the demo should look like.
 
 ### Specifying tabs
 
@@ -96,7 +96,7 @@ In this section of the outline, you can completely re-design the part of the HTM
 
 Here's an <a href="http://scripting.com/publicfolder/feedland/products/sideways.opml">example</a> of an outline file that has an html section. 
 
-If you completely expand the html section, this is what <a href="http://scripting.com/images/2022/10/06/htmlSectionScreenShot.png">you'll see</a>. 
+If you completely expand the html section, this is what <a href="https://imgs.scripting.com/2022/10/06/htmlSectionScreenShot.png">you'll see</a>. 
 
 You can completely change the HTML here as long as the top element is of class <i>divNewsProduct. </i>
 

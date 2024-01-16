@@ -1,10 +1,8 @@
-# Reading news in FeedLand 
-
-From reading earlier docs, you know how to manage feeds, subscribe and unsubscribe, and find a few recent items in the feed list. Now we get into reading news.  
+# Reading news in FeedLand  
 
 In FeedLand we have timelines, which are also called rivers, that show you the latest from feeds you've subscribed to, in reverse-chronologic order, ie newest first.
 
-These timesline work like the ones in social media apps. Each item has links that allow you to Like an item, or pass a link on to other readers through a feed, or directly to social media apps like Bluesky and Mastodon, view an item on its own page for easier reading, bookmark it, get technical info about an item, or if it has an enclosure, listen to it as a podcast. 
+These timesline work like the ones in social media apps. Each item has links that allow you to Like an item, or pass a link on to other readers through a feed, view an item on its own page for easier reading, bookmark it, get technical info about an item, or if it has an enclosure, listen to it as a podcast. 
 
 As with other pages in FeedLand, there are lots of useful tool tips and mouse clicks. 
 

@@ -2,31 +2,31 @@
 
 At the center of your FeedLand world is the Feed List. 
 
-You can get to it by choosing <i>My Feeds</i> in the first menu. 
+You can get to it by choosing <i>My Feed List</i> in the first menu. 
 
 All the feeds you subscribe to are listed. 
 
-### Using the list
+### Using the list 
 
 You can change the order in which feeds appear by clicking on the column titles.    
 
 From the feed list, you can categorize feeds, read news, see which feeds have recently updated, see who else is subscribed to a feed, see the stats for each feed. There's a lot of functionality packed into this page.
 
-Also you can read everyone else's feed lists, and subscribe to any of the feeds they're subscribed to. You can quickly see which ones you have already subscribed to with the checkbox next to the feed's title. 
+You can read everyone else's feed lists, and subscribe to any of the feeds they're subscribed to. You can quickly see which ones you have already subscribed to with the checkbox next to the feed's title. 
 
 ### Screen shot of a feed list
 
-<img src="https://imgs.scripting.com/2023/08/02/feedlist2.png">
+<img src="https://imgs.scripting.com/2024/01/01/feedlistfordocs1.png">
 
 ### Sort order
 
 You can control the order of the list by clicking on a column head. 
 
-* Title sorts the list alphabetically by its title. 
+* <i>Title</i> sorts the list alphabetically by its title. 
 
-* When sorts chronologically by when the feed was last updated. 
+* <i>When</i> sorts chronologically by when the feed was last updated. 
 
-* Ct sorts on the number of subscribers. 
+* <i>Ct</i> sorts on the number of subscribers. 
 
 If you click a header again it reverses the order, so if you were viewing alphabetically, it would switch to reverse-alphabetic.
 
@@ -47,6 +47,8 @@ Each feed has a checkbox which indicates whether you are subscribed to the feed.
 In your own list all feeds are checked. If you're viewing <a href="https://imgs.scripting.com/2023/08/02/someoneElsesFeedList.png">someone else's list</a> you will probably see some unchecked boxes. 
 
 When you check or uncheck a box the effect takes place immediately.   
+
+This idea goes back to a concept I wrote about in 2007 called <a href="http://scripting.com/stories/2007/04/24/checkboxNews.html">Checkbox News</a>. 
 
 ### Click the title for info about the feed
 
