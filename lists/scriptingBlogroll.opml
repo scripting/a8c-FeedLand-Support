@@ -7,13 +7,13 @@
 		<urlPublic>https://lists.feedcorps.org/scriptingBlogroll.opml</urlPublic>
 		<ownerId>dave.winer@gmail.com</ownerId>
 		<urlUpdateSocket>wss://drummer.land/</urlUpdateSocket>
-		<dateModified>Sun, 03 Mar 2024 17:46:21 GMT</dateModified>
+		<dateModified>Sun, 03 Mar 2024 17:51:16 GMT</dateModified>
 		<expansionState></expansionState>
-		<lastCursor>0</lastCursor>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="A History of Rock Music in 500 Songs" type="rss" xmlUrl="https://500songs.com/feed/podcast/" htmlUrl="https://500songs.com/series/a-history-of-rock-music-in-500-songs/" category="all,blogroll,podcasts" created="Sun, 03 Mar 2024 17:41:47 GMT"/>
-		<outline text="A List Apart: The Full Feed" type="rss" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="https://alistapart.com" category="all,blogroll"/>
+		<outline text="A List Apart: The Full Feed" type="rss" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="https://alistapart.com" category="all,blogroll" created="Sun, 03 Mar 2024 17:51:15 GMT"/>
 		<outline text="Ars Technica - All content" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com/" category="all,blogroll"/>
 		<outline text="B I J A N" type="rss" xmlUrl="https://bijansabet.com/feed" htmlUrl="https://bijansabet.com/" category="all,blogroll,bloggers"/>
 		<outline text="Bluesky" type="rss" xmlUrl="https://bsky.social/about/rss.xml" htmlUrl="https://bsky.social/about" category="all,blogroll,tech"/>
