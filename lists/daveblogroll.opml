@@ -3,9 +3,10 @@
 	<head>
 		<title>Subscriptions for davewiner (category: blogroll)</title>
 		<description>List created by feedlandDatabase v0.7.43</description>
-		<dateModified>Sun, 03 Mar 2024 17:39:48 GMT</dateModified>
+		<dateModified>Tue, 05 Mar 2024 14:58:46 GMT</dateModified>
 		</head>
 	<body>
+		<outline type="rss" text="Chris Coyier" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net/" category="all,blogroll,tech,bloggers" />
 		<outline type="rss" text="Mitch W" xmlUrl="https://mitchw.blog/feed" htmlUrl="https://mitchw.blog/" category="all,blogroll,bloggers" />
 		<outline type="rss" text="Werd I/O" xmlUrl="https://werd.io/?_t=rss" htmlUrl="https://werd.io/" category="all,blogroll,bloggers" />
 		<outline type="rss" text="This Week in the IndieWeb" xmlUrl="https://indieweb.org/this-week/feed.xml" htmlUrl="https://indieweb.org/this-week" category="all,blogroll,tech" />
@@ -39,7 +40,6 @@
 		<outline type="rss" text="FrameLab" xmlUrl="https://georgelakoff.substack.com/feed" htmlUrl="https://www.theframelab.org/" category="all,blogroll,politics,bloggers" />
 		<outline type="rss" text="Open Source with Christopher Lydon" xmlUrl="https://radioopensource.org/feed" htmlUrl="https://radioopensource.org/" category="all,blogroll,podcasts" />
 		<outline type="rss" text="Colin Walker – Daily Feed" xmlUrl="https://colinwalker.blog/dailyfeed.xml" htmlUrl="https://colinwalker.blog" category="all,blogroll" />
-		<outline type="rss" text="Memex 1.1" xmlUrl="http://memex.naughtons.org/feed" htmlUrl="https://memex.naughtons.org/" category="all,blogroll,bloggers" />
 		<outline type="rss" text="Platformer" xmlUrl="https://www.platformer.news/rss/" htmlUrl="https://www.platformer.news/" category="all,blogroll" />
 		<outline type="rss" text="Simon Willison's Weblog" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="http://simonwillison.net/" category="all,blogroll" />
 		<outline type="rss" text="Countdown with Keith Olbermann" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4cab918b-b4e7-4a21-8300-aec3011bf3f1/e7682aaf-443f-41d8-945f-aec3011c5127/podcast.rss" htmlUrl="https://www.iheart.com/podcast/1119-countdown-with-keith-olbe-99705496/" category="all,blogroll,podcasts" />
