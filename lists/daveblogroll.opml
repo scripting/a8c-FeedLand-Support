@@ -3,9 +3,10 @@
 	<head>
 		<title>Subscriptions for davewiner (category: blogroll)</title>
 		<description>List created by feedlandDatabase v0.7.43</description>
-		<dateModified>Tue, 05 Mar 2024 14:58:46 GMT</dateModified>
+		<dateModified>Tue, 05 Mar 2024 17:26:32 GMT</dateModified>
 		</head>
 	<body>
+		<outline type="rss" text="On my Om" xmlUrl="http://om.co/feed/" htmlUrl="https://om.co/" category="all,blogroll,tech,bloggers" />
 		<outline type="rss" text="Chris Coyier" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net/" category="all,blogroll,tech,bloggers" />
 		<outline type="rss" text="Mitch W" xmlUrl="https://mitchw.blog/feed" htmlUrl="https://mitchw.blog/" category="all,blogroll,bloggers" />
 		<outline type="rss" text="Werd I/O" xmlUrl="https://werd.io/?_t=rss" htmlUrl="https://werd.io/" category="all,blogroll,bloggers" />
