@@ -2,7 +2,7 @@
 
 A news product is a one-page website you create with FeedLand for people outside of FeedLand to read.    
 
-### Example 
+### Example  
 
 An example of a news product is <a href="http://mlbriver.com/">mlbriver.com</a>. It's a constantly updated list of news stories about baseball. I created the template to be clean and simple. I could have put the news flow in the middle of a template with other information, or as part of a larger website. 
 
@@ -10,7 +10,7 @@ An example of a news product is <a href="http://mlbriver.com/">mlbriver.com</a>.
 
 ### My news product
 
-Here's the <a href="http://my.feedland.org/davewiner/">news product</a> I created for people who read my blog.  
+Here's the <a href="http://my.feedland.org/scripting/">news product</a> I created for people who read my blog.  
 
 I wanted the page to be on my domain, you I pointed a <a href="https://en.wikipedia.org/wiki/CNAME_record">CNAME record</a> at the my.feedland page.
 

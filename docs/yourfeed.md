@@ -62,7 +62,7 @@ When your feed is saved, FeedLand generates an RSS &lt;enclosure> element, inclu
 
 ### Markdown is just enough HTML
 
-If you look at a <a href="http://data.feedland.com/feeds/davewiner.xml">feed</a>, you'll see that the text is saved in the feed in both HTML and Markdown. 
+If you look at a <a href="http://data.feedland.com/feeds/scripting.xml">feed</a>, you'll see that the text is saved in the feed in both HTML and Markdown. 
 
 We think more writing apps should support Markdown in feeds, because it would make the feed world richer and safer. 
 

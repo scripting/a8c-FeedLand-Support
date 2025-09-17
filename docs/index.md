@@ -12,21 +12,17 @@ So FeedLand is feeds, news and people and software that connects it all together
 
 People subscribe to feeds, we squeeze news out of feeds, and shape it into products. 
 
-People can add new feeds. There's a limit of 250 new feeds for each user.  
-
-You can also subscribe to feeds other people have added. No limit there. Subscribe to as many as you like.
+You can easily subscribe to feeds other people have added. 
 
 Everyone can see everything. Our lists and categories are there for everyone to use. 
 
-A FeedLand community works together shaping news flows.
+A FeedLand community works together in the same way social media systems do, only we do it with feeds.
 
 ### The 250-feed limit
 
 There's a limit of 250 new feeds per user. 
 
 A new feed is one that no one else is subscribed to. So if you're clicking a checkbox in someone else's feed list, that won't count against your 250 feed limit. 
-
-At some point we will provide a way to purchase more subscriptions if you run up against the limit. 
 
 ### Nothing is hidden
 
