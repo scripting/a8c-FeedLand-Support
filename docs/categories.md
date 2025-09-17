@@ -56,7 +56,7 @@ Click the OK button to save the new settings, then choose <i>My news</i> from th
 
 Suppose you want an OPML subscription list for my politics category. 
 
-<a href="http://feedland.com/opml?screenname=scripting&catname=politics">http://feedland.com/opml?screenname=scripting&catname=politics</a>
+<a href="http://feedland.com/opml?screenname=davewiner&catname=politics">http://feedland.com/opml?screenname=davewiner&catname=politics</a>
 
 You can create a link like that for any user's category.
 
